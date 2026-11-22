@@ -41,7 +41,7 @@ These aggregates contain no customer profiles, subscriber counts, private match 
 
 The broad classification totals above are not ready-made lists of contracts your business can deliver.
 Our [supplier reading notes](SUPPLIER-RESOURCES.md) explain that distinction and link to free official
-search instructions, a free bid/no-bid checklist, current cleaning and grounds-maintenance notice lists,
+search instructions, a free bid/no-bid checklist, current cleaning, grounds-maintenance, IT-support and refurbishment notice lists,
 and a comparison of free alerts with paid matching. These resources are published by Contract Alerts;
 they are not independent reviews or government endorsements. The dated snapshot files remain unchanged.
 

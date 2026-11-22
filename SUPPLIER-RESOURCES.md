@@ -32,6 +32,10 @@ that a procurement has not since been changed or withdrawn.
   public records classified under CPV `9091`, with buyers, stated values, future response deadlines and official links.
 - [Grounds-maintenance tender notices and alerts](https://getcontractalerts.com/tenders/grounds-maintenance):
   public records classified under CPV `773`, plus practical searches and questions about sites, travel and seasonal capacity.
+- [IT-support tender notices and alerts](https://getcontractalerts.com/tenders/it-support):
+  computer-related services recorded under CPV `725`, with questions about support hours, systems, handover and security requirements. This narrow list excludes work recorded only under other IT classifications.
+- [Refurbishment tender notices and alerts](https://getcontractalerts.com/tenders/refurbishment):
+  overhaul/refurbishment records under CPV `45453`, with questions about sites, trades, access, programme and pricing. It is not a list of all construction work.
 
 These site lists are generated from stored notice records when requested; they are not saved snapshot
 downloads or personalised matches. The supported direct imports are Find a Tender and Contracts Finder.
