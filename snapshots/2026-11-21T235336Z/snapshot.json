@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "as_of_utc": "2026-11-21T23:53:36.051653+00:00",
+  "window_start_utc": "2026-11-14T23:53:36.051653+00:00",
+  "window_end_utc": "2026-11-21T23:53:36.051653+00:00",
+  "window_boundary": "inclusive",
+  "publisher": "Contract Alerts",
+  "publisher_url": "https://getcontractalerts.com/",
+  "methodology_url": "https://getcontractalerts.com/coverage#current-imports",
+  "update_policy": "Dated snapshot; no scheduled updates promised.",
+  "total_stored_notice_records": 176,
+  "first_imported_last_seven_days": 176,
+  "future_deadline_notice_records": 176,
+  "past_or_equal_deadline_notice_records": 0,
+  "unusable_or_missing_deadline_notice_records": 0,
+  "future_deadline_records_without_known_region": 0,
+  "future_deadline_records_without_known_cpv_division": 0,
+  "sources": [
+    {
+      "source_code": "fts",
+      "source_name": "Find a Tender",
+      "source_url": "https://www.find-tender.service.gov.uk/",
+      "first_imported_last_seven_days": 154,
+      "feed_last_checked_utc": "2026-11-21T17:45:08.418387+00:00"
+    },
+    {
+      "source_code": "cf",
+      "source_name": "Contracts Finder",
+      "source_url": "https://www.contractsfinder.service.gov.uk/",
+      "first_imported_last_seven_days": 22,
+      "feed_last_checked_utc": "2026-11-21T17:45:08.418387+00:00"
+    }
+  ],
+  "regions": [
+    {
+      "region_code": "UKC",
+      "region_name": "North East",
+      "notice_records": 9
+    },
+    {
+      "region_code": "UKD",
+      "region_name": "North West",
+      "notice_records": 15
+    },
+    {
+      "region_code": "UKE",
+      "region_name": "Yorkshire and the Humber",
+      "notice_records": 13
+    },
+    {
+      "region_code": "UKF",
+      "region_name": "East Midlands",
+      "notice_records": 17
+    },
+    {
+      "region_code": "UKG",
+      "region_name": "West Midlands",
+      "notice_records": 15
+    },
+    {
+      "region_code": "UKH",
+      "region_name": "East of England",
+      "notice_records": 16
+    },
+    {
+      "region_code": "UKI",
+      "region_name": "London",
+      "notice_records": 36
+    },
+    {
+      "region_code": "UKJ",
+      "region_name": "South East",
+      "notice_records": 24
+    },
+    {
+      "region_code": "UKK",
+      "region_name": "South West",
+      "notice_records": 10
+    },
+    {
+      "region_code": "UKL",
+      "region_name": "Wales",
+      "notice_records": 9
+    },
+    {
+      "region_code": "UKM",
+      "region_name": "Scotland",
+      "notice_records": 17
+    },
+    {
+      "region_code": "UKN",
+      "region_name": "Northern Ireland",
+      "notice_records": 24
+    }
+  ],
+  "cpv_divisions": [
+    {
+      "cpv_division_code": "45",
+      "cpv_division_label": "Construction work (building, refurbishment, roads, installation work)",
+      "notice_records": 43
+    },
+    {
+      "cpv_division_code": "79",
+      "cpv_division_label": "Business services: legal, marketing, consulting, recruitment, printing, security",
+      "notice_records": 26
+    },
+    {
+      "cpv_division_code": "85",
+      "cpv_division_label": "Health and social work services",
+      "notice_records": 21
+    },
+    {
+      "cpv_division_code": "80",
+      "cpv_division_label": "Education and training services",
+      "notice_records": 20
+    },
+    {
+      "cpv_division_code": "90",
+      "cpv_division_label": "Sewage, refuse, cleaning and environmental services",
+      "notice_records": 17
+    },
+    {
+      "cpv_division_code": "71",
+      "cpv_division_label": "Architectural, engineering, surveying and inspection services",
+      "notice_records": 15
+    },
+    {
+      "cpv_division_code": "50",
+      "cpv_division_label": "Repair and maintenance services",
+      "notice_records": 14
+    },
+    {
+      "cpv_division_code": "72",
+      "cpv_division_label": "IT services: consulting, software development, internet and support",
+      "notice_records": 10
+    },
+    {
+      "cpv_division_code": "73",
+      "cpv_division_label": "Research and development services",
+      "notice_records": 10
+    },
+    {
+      "cpv_division_code": "98",
+      "cpv_division_label": "Other community, social and personal services",
+      "notice_records": 10
+    },
+    {
+      "cpv_division_code": "60",
+      "cpv_division_label": "Transport services (incl. taxis, buses, removals)",
+      "notice_records": 9
+    },
+    {
+      "cpv_division_code": "44",
+      "cpv_division_label": "Construction materials and structures (doors, windows, fencing)",
+      "notice_records": 7
+    },
+    {
+      "cpv_division_code": "34",
+      "cpv_division_label": "Transport equipment and vehicles",
+      "notice_records": 6
+    },
+    {
+      "cpv_division_code": "77",
+      "cpv_division_label": "Agricultural, forestry, horticultural and grounds maintenance services",
+      "notice_records": 6
+    },
+    {
+      "cpv_division_code": "15",
+      "cpv_division_label": "Food, beverages and tobacco",
+      "notice_records": 5
+    },
+    {
+      "cpv_division_code": "51",
+      "cpv_division_label": "Installation services",
+      "notice_records": 5
+    },
+    {
+      "cpv_division_code": "92",
+      "cpv_division_label": "Recreational, cultural and sporting services",
+      "notice_records": 5
+    },
+    {
+      "cpv_division_code": "31",
+      "cpv_division_label": "Electrical machinery, lighting and cables",
+      "notice_records": 4
+    },
+    {
+      "cpv_division_code": "39",
+      "cpv_division_label": "Furniture, furnishings, domestic appliances and cleaning products",
+      "notice_records": 4
+    },
+    {
+      "cpv_division_code": "42",
+      "cpv_division_label": "Industrial machinery",
+      "notice_records": 4
+    },
+    {
+      "cpv_division_code": "66",
+      "cpv_division_label": "Financial and insurance services",
+      "notice_records": 4
+    },
+    {
+      "cpv_division_code": "70",
+      "cpv_division_label": "Real estate services",
+      "notice_records": 4
+    },
+    {
+      "cpv_division_code": "24",
+      "cpv_division_label": "Chemical products",
+      "notice_records": 3
+    },
+    {
+      "cpv_division_code": "33",
+      "cpv_division_label": "Medical equipment, pharmaceuticals and personal care",
+      "notice_records": 3
+    },
+    {
+      "cpv_division_code": "38",
+      "cpv_division_label": "Laboratory, optical and precision equipment",
+      "notice_records": 3
+    },
+    {
+      "cpv_division_code": "48",
+      "cpv_division_label": "Software packages and information systems",
+      "notice_records": 3
+    },
+    {
+      "cpv_division_code": "65",
+      "cpv_division_label": "Public utilities",
+      "notice_records": 3
+    },
+    {
+      "cpv_division_code": "09",
+      "cpv_division_label": "Fuels, petroleum products and electricity",
+      "notice_records": 2
+    },
+    {
+      "cpv_division_code": "18",
+      "cpv_division_label": "Clothing, footwear, uniforms and workwear",
+      "notice_records": 2
+    },
+    {
+      "cpv_division_code": "35",
+      "cpv_division_label": "Security, fire-fighting, police and defence equipment",
+      "notice_records": 2
+    },
+    {
+      "cpv_division_code": "63",
+      "cpv_division_label": "Supporting transport services and travel agencies",
+      "notice_records": 2
+    },
+    {
+      "cpv_division_code": "75",
+      "cpv_division_label": "Administration, defence and social security services",
+      "notice_records": 2
+    },
+    {
+      "cpv_division_code": "03",
+      "cpv_division_label": "Agricultural, farming, fishing and forestry products",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "14",
+      "cpv_division_label": "Mining and quarrying products",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "22",
+      "cpv_division_label": "Printed matter and related products",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "32",
+      "cpv_division_label": "Radio, TV, communication and telecoms equipment",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "55",
+      "cpv_division_label": "Hotel, restaurant and catering services",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "64",
+      "cpv_division_label": "Postal and telecommunications services",
+      "notice_records": 1
+    },
+    {
+      "cpv_division_code": "76",
+      "cpv_division_label": "Oil and gas industry services",
+      "notice_records": 1
+    }
+  ],
+  "definitions": {
+    "record_unit": "Stored notice record after importer filtering and heuristic cross-source duplicate suppression; not a verified unique procurement.",
+    "first_imported_last_seven_days": "First insertion into Contract Alerts during the inclusive UTC window; not buyer publication time.",
+    "future_deadline_notice_records": "Stored records with a parseable response deadline strictly later than as_of_utc; this alone does not verify the opportunity remains open.",
+    "regions": "Distinct stored region assignments per future-deadline notice; a notice can appear in several rows. Delivery details take precedence, with buyer-address fallback and approximate postcode mapping.",
+    "cpv_divisions": "Distinct recognized two-digit CPV prefixes per future-deadline notice; a notice can appear in several rows. Labels are simplified Contract Alerts labels.",
+    "feed_last_checked_utc": "Recorded start time of the latest completed importer run for that source; not a completeness guarantee or crawl receipt."
+  },
+  "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+  "publication_repository": "https://github.com/kackupa/getcontractalerts-public-data"
+}
