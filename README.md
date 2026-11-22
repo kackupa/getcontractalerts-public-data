@@ -37,6 +37,14 @@ Imports are bounded and run periodically. Feed checkpoints record importer runs;
 
 These aggregates contain no customer profiles, subscriber counts, private match assessments, notice-level contacts or tender documents. They do not measure contracts won, spending, supplier eligibility or AI matching accuracy.
 
+## Resources for suppliers using these figures
+
+The broad classification totals above are not ready-made lists of contracts your business can deliver.
+Our [supplier reading notes](SUPPLIER-RESOURCES.md) explain that distinction and link to free official
+search instructions, a free bid/no-bid checklist, current cleaning and grounds-maintenance notice lists,
+and a comparison of free alerts with paid matching. These resources are published by Contract Alerts;
+they are not independent reviews or government endorsements. The dated snapshot files remain unchanged.
+
 ## Sources and reuse
 
 - [Find a Tender](https://www.find-tender.service.gov.uk/) — [OCDS API documentation](https://www.find-tender.service.gov.uk/Developer/Documentation).
