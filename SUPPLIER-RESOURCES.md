@@ -25,6 +25,9 @@ that a procurement has not since been changed or withdrawn.
   browser and are not uploaded or saved. The result is a next step, not an eligibility or win prediction.
 - [Sources and coverage definitions](https://getcontractalerts.com/coverage):
   current import counts and exclusions. Current figures can differ from this repository's saved snapshot.
+- [Printable bid or no-bid worksheet (PDF)](https://getcontractalerts.com/static/downloads/tender-bid-checklist.pdf):
+  one A4 page with the same six questions, space for the notice/lot, official URL, deadline and evidence
+  notes, and next-step guidance. Free to use and share unchanged; no account or electronic form needed.
 
 ## Current sector starting points
 
