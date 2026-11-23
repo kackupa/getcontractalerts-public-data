@@ -22,6 +22,8 @@ Start with the [European tender-search guide](https://getcontractalerts.com/guid
 
 ## Free practical resources
 
+- [Printable four-trade factsheet (PDF)](factsheets/european-tender-trade-snapshot-2026-11-23.pdf): one A4 page with dated notice counts, time remaining, source limitations and a precise citation. It is first-party imported data rather than evidence of market size or contracts won.
+
 - [France: trouver des marchés publics](https://getcontractalerts.com/guides/trouver-marches-publics-france), in French: BOAMP, PLACE, official alerts and the buyer's documents.
 - [Germany: öffentliche Ausschreibungen finden](https://getcontractalerts.com/guides/oeffentliche-ausschreibungen-deutschland), in German: public search, regional portals and following a procedure.
 - [Poland: jak znaleźć przetargi](https://getcontractalerts.com/guides/jak-znalezc-przetargi-polska), in Polish: BZP, e-Zamówienia subscriptions, documents and submission channels.

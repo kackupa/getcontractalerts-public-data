@@ -2,6 +2,8 @@
 
 Published by Contract Alerts. Captured at **21:26:59 UTC on 23 November 2026**. This is a first-party analysis of our imports, not a complete European market report, an independent review or a count of contracts won.
 
+[Download the one-page factsheet (PDF)](factsheets/european-tender-trade-snapshot-2026-11-23.pdf) for suppliers, advisers and trade organisations. It keeps the date, count definitions, caveats and links to the pinned data alongside the figures.
+
 | Classification | CPV prefix | Stored active records with a future deadline | Due within 3 days | More than 7 days remaining |
 | --- | --- | ---: | ---: | ---: |
 | Cleaning | `9091` | 199 | 28 | 149 |
