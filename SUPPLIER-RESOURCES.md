@@ -22,6 +22,12 @@ Start with the [European tender-search guide](https://getcontractalerts.com/guid
 
 ## Free practical resources
 
+- [France: trouver des marchés publics](https://getcontractalerts.com/guides/trouver-marches-publics-france), in French: BOAMP, PLACE, official alerts and the buyer's documents.
+- [Germany: öffentliche Ausschreibungen finden](https://getcontractalerts.com/guides/oeffentliche-ausschreibungen-deutschland), in German: public search, regional portals and following a procedure.
+- [Poland: jak znaleźć przetargi](https://getcontractalerts.com/guides/jak-znalezc-przetargi-polska), in Polish: BZP, e-Zamówienia subscriptions, documents and submission channels.
+- [European free alerts versus paid matching](https://getcontractalerts.com/guides/european-tender-alerts-free-vs-paid): a first-party comparison of setup, costs, coverage and limits.
+- [Four-trade dated data and reading notes](TRADE-INSIGHTS.md): cleaning, grounds maintenance, IT support and refurbishment from the 23 November imports, with downloadable counts and explicit limitations.
+
 - [Set up free official tender alerts](https://getcontractalerts.com/guides/find-public-sector-contracts#free-find-a-tender-alerts):
   steps for Find a Tender saved searches and separate Contracts Finder email preferences, with official sources.
 - [Free tender bid or no-bid checklist](https://getcontractalerts.com/tools/tender-bid-checklist):

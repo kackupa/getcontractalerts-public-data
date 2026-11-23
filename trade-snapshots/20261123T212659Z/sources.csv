@@ -1,0 +1,67 @@
+sector,source_code,source_name,source_url,records
+cleaning,boamp,France — BOAMP,https://www.boamp.fr/,1
+cleaning,bund,Germany — Bekanntmachungsservice,https://oeffentlichevergabe.de/ui/,8
+cleaning,bzp,Poland — BZP,https://ezamowienia.gov.pl/,17
+cleaning,clira,Sweden — Clira public announcements,https://public.clira.io/upphandling,5
+cleaning,dre,Portugal — Diário da República,https://diariodarepublica.pt/,2
+cleaning,eojn,Croatia — EOJN,https://eojn.hr/,3
+cleaning,eu-tenders,Europe — EU Funding & Tenders procurement,https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders,2
+cleaning,fts,Find a Tender,https://www.find-tender.service.gov.uk/,8
+cleaning,kimdis,Greece — KIMDIS,https://cerpp.eprocurement.gov.gr/,69
+cleaning,malta,Malta — ePPS,https://www.etenders.gov.mt/,1
+cleaning,mercell-public,Mercell — anonymous public notices,https://app.mercell.com/search,27
+cleaning,nen,Czechia — NEN,https://nen.nipez.cz/,4
+cleaning,pjn,Slovenia — public procurement bulletin,https://www.enarocanje.si/,2
+cleaning,placsp,Spain — PLACSP,https://contrataciondelestado.es/,3
+cleaning,placsp-regional,Spain — aggregated regional notices,https://contrataciondelestado.es/,1
+cleaning,ted,TED — Ireland and Europe,https://ted.europa.eu/,39
+cleaning,tenderned,Netherlands — TenderNed,https://www.tenderned.nl/,2
+cleaning,udbud,Denmark — Udbud.dk,https://udbud.dk/,4
+cleaning,vvz,Czechia — VVZ bulletin,https://vvz.nipez.cz/,1
+grounds,bund,Germany — Bekanntmachungsservice,https://oeffentlichevergabe.de/ui/,1
+grounds,bzp,Poland — BZP,https://ezamowienia.gov.pl/,3
+grounds,cf,Contracts Finder,https://www.contractsfinder.service.gov.uk/,1
+grounds,clira,Sweden — Clira public announcements,https://public.clira.io/upphandling,3
+grounds,cvpis,Lithuania — CVP IS,https://viesiejipirkimai.lt/,1
+grounds,cyproc,Cyprus — eProcurement,https://www.eprocurement.gov.cy/,1
+grounds,dre,Portugal — Diário da República,https://diariodarepublica.pt/,2
+grounds,fts,Find a Tender,https://www.find-tender.service.gov.uk/,12
+grounds,hilma,Finland — HILMA,https://www.hankintailmoitukset.fi/,1
+grounds,intend-public,UK — In-tend public buyer opportunities,https://supplier.in-tend.co.uk/,1
+grounds,kimdis,Greece — KIMDIS,https://cerpp.eprocurement.gov.gr/,51
+grounds,mercell-public,Mercell — anonymous public notices,https://app.mercell.com/search,18
+grounds,place,France — PLACE,https://www.marches-publics.gouv.fr/,2
+grounds,placsp,Spain — PLACSP,https://contrataciondelestado.es/,3
+grounds,pmp,Luxembourg — public procurement portal,https://pmp.b2g.etat.lu/,1
+grounds,ted,TED — Ireland and Europe,https://ted.europa.eu/,26
+grounds,tenderned,Netherlands — TenderNed,https://www.tenderned.nl/,2
+grounds,udbud,Denmark — Udbud.dk,https://udbud.dk/,8
+it,boamp,France — BOAMP,https://www.boamp.fr/,1
+it,clira,Sweden — Clira public announcements,https://public.clira.io/upphandling,2
+it,dre,Portugal — Diário da República,https://diariodarepublica.pt/,3
+it,etenders,Ireland — eTenders,https://www.etenders.gov.ie/,1
+it,fts,Find a Tender,https://www.find-tender.service.gov.uk/,1
+it,kimdis,Greece — KIMDIS,https://cerpp.eprocurement.gov.gr/,11
+it,mercell-public,Mercell — anonymous public notices,https://app.mercell.com/search,8
+it,place,France — PLACE,https://www.marches-publics.gouv.fr/,1
+it,placsp,Spain — PLACSP,https://contrataciondelestado.es/,1
+it,pmp,Luxembourg — public procurement portal,https://pmp.b2g.etat.lu/,1
+it,ted,TED — Ireland and Europe,https://ted.europa.eu/,14
+refurbishment,boamp,France — BOAMP,https://www.boamp.fr/,1
+refurbishment,bzp,Poland — BZP,https://ezamowienia.gov.pl/,11
+refurbishment,clira,Sweden — Clira public announcements,https://public.clira.io/upphandling,2
+refurbishment,cvpis,Lithuania — CVP IS,https://viesiejipirkimai.lt/,1
+refurbishment,dre,Portugal — Diário da República,https://diariodarepublica.pt/,1
+refurbishment,eojn,Croatia — EOJN,https://eojn.hr/,7
+refurbishment,etenders,Ireland — eTenders,https://www.etenders.gov.ie/,2
+refurbishment,fts,Find a Tender,https://www.find-tender.service.gov.uk/,4
+refurbishment,hilma,Finland — HILMA,https://www.hankintailmoitukset.fi/,2
+refurbishment,intend-public,UK — In-tend public buyer opportunities,https://supplier.in-tend.co.uk/,1
+refurbishment,kimdis,Greece — KIMDIS,https://cerpp.eprocurement.gov.gr/,33
+refurbishment,mercell-public,Mercell — anonymous public notices,https://app.mercell.com/search,8
+refurbishment,nen,Czechia — NEN,https://nen.nipez.cz/,2
+refurbishment,seap,Romania — SEAP,https://www.e-licitatie.ro/,5
+refurbishment,ted,TED — Ireland and Europe,https://ted.europa.eu/,15
+refurbishment,tenderned,Netherlands — TenderNed,https://www.tenderned.nl/,1
+refurbishment,udbud,Denmark — Udbud.dk,https://udbud.dk/,3
+refurbishment,vvz,Czechia — VVZ bulletin,https://vvz.nipez.cz/,4
