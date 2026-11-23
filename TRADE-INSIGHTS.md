@@ -37,6 +37,25 @@ This group uses CPV `45453`, rather than every construction or repairs classific
 
 ## Use country and source counts carefully
 
+### What does the feed mix tell us?
+
+| Classification | Records assigned to TED | Records assigned to other public feeds | Total |
+| --- | ---: | ---: | ---: |
+| Cleaning | 39 | 160 | 199 |
+| Grounds maintenance | 26 | 111 | 137 |
+| IT support / computer-related services | 14 | 30 | 44 |
+| Refurbishment | 15 | 88 | 103 |
+
+These figures are derived from the `source_code` rows in [sources.csv](trade-snapshots/20261123T212659Z/sources.csv). Each stored record has one assigned source, so the two source columns add to the trade total. That assigned source can depend on import order and duplicate suppression. It does not establish whether the original procurement also appears on TED or another portal.
+
+For a supplier, the useful next step is to combine relevant official sources and inspect the actual notice. The table cannot tell you how many additional unique contracts a particular feed provides, or whether paying for an alert service will find more suitable work than your own searches.
+
+Feed concentration also affects country comparisons. For example, 69 cleaning records in this extraction were assigned to the Greek KIMDIS feed. Different publication and import scopes can make one feed prominent in our stored sample. Treat country totals as a description of this extraction when selecting sources to inspect, rather than a measure of national demand or an endorsement of a market.
+
+### What can an adviser safely cite?
+
+A precise statement is: “Contract Alerts recorded 199 active-status cleaning-classified notice records with future deadlines at 21:26:59 UTC on 23 November 2026, using stored CPV prefix 9091.” Link to the dated data and retain the definitions when reusing the figure. A claim about the total number of European cleaning contracts, or contracts available to a particular business, would require different evidence.
+
 The downloads include all 43 supported country rows per trade and the source records behind each total. They are useful for understanding which parts of our imports contribute to a list. They are not a ranking of national demand or the best countries for a business to enter. National feeds have different scopes, import limits, classification quality and update behavior. Some national feeds assign their publishing market rather than the actual delivery country.
 
 Country rows can overlap. A zero means no qualifying record in this particular extraction, not no public work in that country. Sources partition the stored records within a trade, but that does not remove real-world duplication between feeds.
