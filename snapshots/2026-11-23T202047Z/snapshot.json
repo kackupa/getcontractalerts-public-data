@@ -1,0 +1,1026 @@
+{
+  "schema_version": "2.0",
+  "as_of_utc": "2026-11-23T20:20:47.180668+00:00",
+  "window_start_utc": "2026-11-16T20:20:47.180668+00:00",
+  "window_end_utc": "2026-11-23T20:20:47.180668+00:00",
+  "window_boundary": "inclusive",
+  "publisher": "Contract Alerts",
+  "publisher_url": "https://getcontractalerts.com/",
+  "methodology_url": "https://getcontractalerts.com/coverage#current-imports",
+  "publication_repository": "https://github.com/kackupa/getcontractalerts-public-data",
+  "update_policy": "Dated snapshot; no scheduled updates promised.",
+  "total_stored_notice_records": 13255,
+  "first_imported_last_seven_days": 13255,
+  "active_future_deadline_notice_records": 12878,
+  "inactive_notice_records": 2,
+  "active_past_or_equal_deadline_notice_records": 9,
+  "active_unusable_or_missing_deadline_notice_records": 366,
+  "active_future_deadline_records_without_known_country": 78,
+  "active_future_deadline_records_without_known_uk_region": 12576,
+  "active_future_deadline_records_without_known_cpv_division": 558,
+  "sources": [
+    {
+      "source_code": "fts",
+      "source_name": "Find a Tender",
+      "source_url": "https://www.find-tender.service.gov.uk/",
+      "first_imported_last_seven_days": 250,
+      "active_future_deadline_notice_records": 244,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "cf",
+      "source_name": "Contracts Finder",
+      "source_url": "https://www.contractsfinder.service.gov.uk/",
+      "first_imported_last_seven_days": 24,
+      "active_future_deadline_notice_records": 22,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "ted",
+      "source_name": "TED: Ireland and Europe",
+      "source_url": "https://ted.europa.eu/",
+      "first_imported_last_seven_days": 1746,
+      "active_future_deadline_notice_records": 1736,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "etenders",
+      "source_name": "Ireland: eTenders",
+      "source_url": "https://www.etenders.gov.ie/",
+      "first_imported_last_seven_days": 32,
+      "active_future_deadline_notice_records": 30,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "boamp",
+      "source_name": "France: BOAMP",
+      "source_url": "https://www.boamp.fr/",
+      "first_imported_last_seven_days": 159,
+      "active_future_deadline_notice_records": 154,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "bund",
+      "source_name": "Germany: Bekanntmachungsservice",
+      "source_url": "https://oeffentlichevergabe.de/ui/",
+      "first_imported_last_seven_days": 272,
+      "active_future_deadline_notice_records": 252,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "bzp",
+      "source_name": "Poland: BZP",
+      "source_url": "https://ezamowienia.gov.pl/",
+      "first_imported_last_seven_days": 569,
+      "active_future_deadline_notice_records": 569,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "tenderned",
+      "source_name": "Netherlands: TenderNed",
+      "source_url": "https://www.tenderned.nl/",
+      "first_imported_last_seven_days": 57,
+      "active_future_deadline_notice_records": 56,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "cvpis",
+      "source_name": "Lithuania: CVP IS",
+      "source_url": "https://viesiejipirkimai.lt/",
+      "first_imported_last_seven_days": 80,
+      "active_future_deadline_notice_records": 80,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "etendersni",
+      "source_name": "Northern Ireland: eTendersNI",
+      "source_url": "https://etendersni.gov.uk/",
+      "first_imported_last_seven_days": 4,
+      "active_future_deadline_notice_records": 4,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "cyproc",
+      "source_name": "Cyprus: eProcurement",
+      "source_url": "https://www.eprocurement.gov.cy/",
+      "first_imported_last_seven_days": 8,
+      "active_future_deadline_notice_records": 8,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "malta",
+      "source_name": "Malta: ePPS",
+      "source_url": "https://www.etenders.gov.mt/",
+      "first_imported_last_seven_days": 21,
+      "active_future_deadline_notice_records": 21,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "iub",
+      "source_name": "Latvia: IUB",
+      "source_url": "https://www.iub.gov.lv/",
+      "first_imported_last_seven_days": 7,
+      "active_future_deadline_notice_records": 7,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "eop",
+      "source_name": "Bulgaria: CAIS EOP",
+      "source_url": "https://app.eop.bg/",
+      "first_imported_last_seven_days": 0,
+      "active_future_deadline_notice_records": 0,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "placsp",
+      "source_name": "Spain: PLACSP",
+      "source_url": "https://contrataciondelestado.es/",
+      "first_imported_last_seven_days": 72,
+      "active_future_deadline_notice_records": 72,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "placsp-regional",
+      "source_name": "Spain: aggregated regional notices",
+      "source_url": "https://contrataciondelestado.es/",
+      "first_imported_last_seven_days": 8,
+      "active_future_deadline_notice_records": 8,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "placsp-small",
+      "source_name": "Spain: minor contracts",
+      "source_url": "https://contrataciondelestado.es/",
+      "first_imported_last_seven_days": 0,
+      "active_future_deadline_notice_records": 0,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "pcs",
+      "source_name": "Scotland: Public Contracts Scotland",
+      "source_url": "https://www.publiccontractsscotland.gov.uk/",
+      "first_imported_last_seven_days": 9,
+      "active_future_deadline_notice_records": 8,
+      "feed_last_checked_utc": "2026-11-23T17:09:04.176645+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "s2w",
+      "source_name": "Wales: Sell2Wales",
+      "source_url": "https://www.sell2wales.gov.wales/",
+      "first_imported_last_seven_days": 3,
+      "active_future_deadline_notice_records": 3,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "dsp",
+      "source_name": "UK: Defence Sourcing Portal",
+      "source_url": "https://contracts.mod.uk/",
+      "first_imported_last_seven_days": 45,
+      "active_future_deadline_notice_records": 45,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "esourcingni",
+      "source_name": "Northern Ireland: eSourcing NI",
+      "source_url": "https://e-sourcingni.ukp.app.jaggaer.com/",
+      "first_imported_last_seven_days": 24,
+      "active_future_deadline_notice_records": 24,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "jaggaer-public",
+      "source_name": "UK: Jaggaer shared public opportunities",
+      "source_url": "https://contracts.mod.uk/esop/guest/go/public/opportunity/global",
+      "first_imported_last_seven_days": 69,
+      "active_future_deadline_notice_records": 69,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "procontract",
+      "source_name": "UK: ProContract public opportunities",
+      "source_url": "https://procontract.due-north.com/Opportunities",
+      "first_imported_last_seven_days": 12,
+      "active_future_deadline_notice_records": 12,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "ctm-uk",
+      "source_name": "UK: EU-Supply public opportunities",
+      "source_url": "https://uk.eu-supply.com/ctm/supplier/publictenders",
+      "first_imported_last_seven_days": 2,
+      "active_future_deadline_notice_records": 2,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "ctm-eu",
+      "source_name": "Europe: EU-Supply public opportunities",
+      "source_url": "https://eu.eu-supply.com/ctm/supplier/publictenders",
+      "first_imported_last_seven_days": 9,
+      "active_future_deadline_notice_records": 9,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "atamis-health",
+      "source_name": "UK: Atamis Health Family public opportunities",
+      "source_url": "https://atamis-1928.my.salesforce-sites.com/?SearchType=Projects",
+      "first_imported_last_seven_days": 157,
+      "active_future_deadline_notice_records": 156,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "atamis-companies",
+      "source_name": "UK: Companies House public opportunities",
+      "source_url": "https://atamis-8005.my.salesforce-sites.com/?SearchType=Projects",
+      "first_imported_last_seven_days": 0,
+      "active_future_deadline_notice_records": 0,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "kimdis",
+      "source_name": "Greece: KIMDIS",
+      "source_url": "https://cerpp.eprocurement.gov.gr/",
+      "first_imported_last_seven_days": 5872,
+      "active_future_deadline_notice_records": 5865,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "udbud",
+      "source_name": "Denmark: Udbud.dk",
+      "source_url": "https://udbud.dk/",
+      "first_imported_last_seven_days": 791,
+      "active_future_deadline_notice_records": 581,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "anac",
+      "source_name": "Italy: ANAC legal notices",
+      "source_url": "https://pubblicitalegale.anticorruzione.it/",
+      "first_imported_last_seven_days": 119,
+      "active_future_deadline_notice_records": 119,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "hilma",
+      "source_name": "Finland: HILMA",
+      "source_url": "https://www.hankintailmoitukset.fi/",
+      "first_imported_last_seven_days": 43,
+      "active_future_deadline_notice_records": 43,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "usp",
+      "source_name": "Austria: USP",
+      "source_url": "https://ausschreibungen.usp.gv.at/",
+      "first_imported_last_seven_days": 5,
+      "active_future_deadline_notice_records": 5,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "nen",
+      "source_name": "Czechia: NEN",
+      "source_url": "https://nen.nipez.cz/",
+      "first_imported_last_seven_days": 83,
+      "active_future_deadline_notice_records": 83,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "vvz",
+      "source_name": "Czechia: VVZ bulletin",
+      "source_url": "https://vvz.nipez.cz/",
+      "first_imported_last_seven_days": 33,
+      "active_future_deadline_notice_records": 29,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "seap",
+      "source_name": "Romania: SEAP",
+      "source_url": "https://www.e-licitatie.ro/",
+      "first_imported_last_seven_days": 111,
+      "active_future_deadline_notice_records": 111,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "rhr",
+      "source_name": "Estonia: RHR",
+      "source_url": "https://riigihanked.riik.ee/",
+      "first_imported_last_seven_days": 28,
+      "active_future_deadline_notice_records": 28,
+      "feed_last_checked_utc": "2026-11-23T17:09:04.176645+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "bosa",
+      "source_name": "Belgium: BOSA bulletin",
+      "source_url": "https://www.publicprocurement.be/bda",
+      "first_imported_last_seven_days": 64,
+      "active_future_deadline_notice_records": 64,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "ekr",
+      "source_name": "Hungary: EKR",
+      "source_url": "https://ekr.gov.hu/",
+      "first_imported_last_seven_days": 28,
+      "active_future_deadline_notice_records": 27,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "uvo",
+      "source_name": "Slovakia: ÚVO bulletin",
+      "source_url": "https://www.uvo.gov.sk/vestnik-a-registre/vestnik",
+      "first_imported_last_seven_days": 24,
+      "active_future_deadline_notice_records": 24,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "pmp",
+      "source_name": "Luxembourg: public procurement portal",
+      "source_url": "https://pmp.b2g.etat.lu/",
+      "first_imported_last_seven_days": 15,
+      "active_future_deadline_notice_records": 15,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "place",
+      "source_name": "France: PLACE",
+      "source_url": "https://www.marches-publics.gouv.fr/",
+      "first_imported_last_seven_days": 105,
+      "active_future_deadline_notice_records": 105,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "pjn",
+      "source_name": "Slovenia: public procurement bulletin",
+      "source_url": "https://www.enarocanje.si/",
+      "first_imported_last_seven_days": 38,
+      "active_future_deadline_notice_records": 36,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "eojn",
+      "source_name": "Croatia: EOJN",
+      "source_url": "https://eojn.hr/",
+      "first_imported_last_seven_days": 227,
+      "active_future_deadline_notice_records": 227,
+      "feed_last_checked_utc": "2026-11-23T17:09:04.176645+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "kommers",
+      "source_name": "Sweden: Kommers Annons",
+      "source_url": "https://www.kommersannons.se/Notices/TenderNotices",
+      "first_imported_last_seven_days": 26,
+      "active_future_deadline_notice_records": 26,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "clira",
+      "source_name": "Sweden: Clira public announcements",
+      "source_url": "https://public.clira.io/upphandling",
+      "first_imported_last_seven_days": 399,
+      "active_future_deadline_notice_records": 372,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "dre",
+      "source_name": "Portugal: Diário da República",
+      "source_url": "https://diariodarepublica.pt/",
+      "first_imported_last_seven_days": 133,
+      "active_future_deadline_notice_records": 130,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "mercell-public",
+      "source_name": "Mercell: anonymous public notices",
+      "source_url": "https://app.mercell.com/search",
+      "first_imported_last_seven_days": 1259,
+      "active_future_deadline_notice_records": 1243,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "konstpool",
+      "source_name": "Sweden: Konstpool art commissions",
+      "source_url": "https://konstpool.se/sv/calls",
+      "first_imported_last_seven_days": 8,
+      "active_future_deadline_notice_records": 8,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "ecb",
+      "source_name": "Europe: European Central Bank tenders",
+      "source_url": "https://www.ecb.europa.eu/ecb/jobsproc/tenders/html/index.en.html",
+      "first_imported_last_seven_days": 1,
+      "active_future_deadline_notice_records": 1,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "eib",
+      "source_name": "Europe: European Investment Bank procurement",
+      "source_url": "https://www.eib.org/en/about/procurement/index",
+      "first_imported_last_seven_days": 8,
+      "active_future_deadline_notice_records": 6,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "eu-tenders",
+      "source_name": "Europe: EU Funding & Tenders procurement",
+      "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders",
+      "first_imported_last_seven_days": 165,
+      "active_future_deadline_notice_records": 109,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "intend-public",
+      "source_name": "UK: In-tend public buyer opportunities",
+      "source_url": "https://supplier.in-tend.co.uk/",
+      "first_imported_last_seven_days": 17,
+      "active_future_deadline_notice_records": 17,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "delta-public",
+      "source_name": "UK: Delta public buyer notices",
+      "source_url": "https://www.delta-esourcing.com/",
+      "first_imported_last_seven_days": 1,
+      "active_future_deadline_notice_records": 1,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    },
+    {
+      "source_code": "atamis-public",
+      "source_name": "UK: additional Atamis public buyer opportunities",
+      "source_url": "https://atamis-7669.my.salesforce-sites.com/?SearchType=Projects",
+      "first_imported_last_seven_days": 13,
+      "active_future_deadline_notice_records": 12,
+      "feed_last_checked_utc": "2026-11-23T17:09:06.126366+00:00",
+      "latest_import_failed": false
+    }
+  ],
+  "countries": [
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "notice_records": 617
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "notice_records": 78
+    },
+    {
+      "country_code": "ALB",
+      "country_name": "Albania",
+      "notice_records": 5
+    },
+    {
+      "country_code": "AND",
+      "country_name": "Andorra",
+      "notice_records": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "notice_records": 82
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "notice_records": 170
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "notice_records": 0
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "notice_records": 63
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "notice_records": 304
+    },
+    {
+      "country_code": "CYP",
+      "country_name": "Cyprus",
+      "notice_records": 20
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "notice_records": 236
+    },
+    {
+      "country_code": "DNK",
+      "country_name": "Denmark",
+      "notice_records": 605
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "notice_records": 54
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "notice_records": 71
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "notice_records": 699
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "notice_records": 924
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "notice_records": 5890
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "notice_records": 59
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "notice_records": 3
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "notice_records": 196
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "notice_records": 46
+    },
+    {
+      "country_code": "LIE",
+      "country_name": "Liechtenstein",
+      "notice_records": 0
+    },
+    {
+      "country_code": "LTU",
+      "country_name": "Lithuania",
+      "notice_records": 136
+    },
+    {
+      "country_code": "LUX",
+      "country_name": "Luxembourg",
+      "notice_records": 52
+    },
+    {
+      "country_code": "MLT",
+      "country_name": "Malta",
+      "notice_records": 46
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "notice_records": 3
+    },
+    {
+      "country_code": "MCO",
+      "country_name": "Monaco",
+      "notice_records": 0
+    },
+    {
+      "country_code": "MNE",
+      "country_name": "Montenegro",
+      "notice_records": 1
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "notice_records": 107
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "notice_records": 7
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "notice_records": 47
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "notice_records": 810
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "notice_records": 218
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "notice_records": 225
+    },
+    {
+      "country_code": "SMR",
+      "country_name": "San Marino",
+      "notice_records": 0
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Serbia",
+      "notice_records": 1
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "notice_records": 47
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "notice_records": 75
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "notice_records": 259
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "notice_records": 589
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "notice_records": 57
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Türkiye",
+      "notice_records": 3
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "notice_records": 5
+    }
+  ],
+  "regions": [
+    {
+      "region_code": "UKC",
+      "region_name": "North East",
+      "notice_records": 19
+    },
+    {
+      "region_code": "UKD",
+      "region_name": "North West",
+      "notice_records": 28
+    },
+    {
+      "region_code": "UKE",
+      "region_name": "Yorkshire and the Humber",
+      "notice_records": 25
+    },
+    {
+      "region_code": "UKF",
+      "region_name": "East Midlands",
+      "notice_records": 34
+    },
+    {
+      "region_code": "UKG",
+      "region_name": "West Midlands",
+      "notice_records": 25
+    },
+    {
+      "region_code": "UKH",
+      "region_name": "East of England",
+      "notice_records": 23
+    },
+    {
+      "region_code": "UKI",
+      "region_name": "London",
+      "notice_records": 49
+    },
+    {
+      "region_code": "UKJ",
+      "region_name": "South East",
+      "notice_records": 31
+    },
+    {
+      "region_code": "UKK",
+      "region_name": "South West",
+      "notice_records": 21
+    },
+    {
+      "region_code": "UKL",
+      "region_name": "Wales",
+      "notice_records": 23
+    },
+    {
+      "region_code": "UKM",
+      "region_name": "Scotland",
+      "notice_records": 29
+    },
+    {
+      "region_code": "UKN",
+      "region_name": "Northern Ireland",
+      "notice_records": 66
+    }
+  ],
+  "cpv_divisions": [
+    {
+      "cpv_division_code": "45",
+      "cpv_division_label": "Construction work (building, refurbishment, roads, installation work)",
+      "notice_records": 2100
+    },
+    {
+      "cpv_division_code": "33",
+      "cpv_division_label": "Medical equipment, pharmaceuticals and personal care",
+      "notice_records": 1124
+    },
+    {
+      "cpv_division_code": "50",
+      "cpv_division_label": "Repair and maintenance services",
+      "notice_records": 1017
+    },
+    {
+      "cpv_division_code": "79",
+      "cpv_division_label": "Business services: legal, marketing, consulting, recruitment, printing, security",
+      "notice_records": 973
+    },
+    {
+      "cpv_division_code": "71",
+      "cpv_division_label": "Architectural, engineering, surveying and inspection services",
+      "notice_records": 959
+    },
+    {
+      "cpv_division_code": "34",
+      "cpv_division_label": "Transport equipment and vehicles",
+      "notice_records": 826
+    },
+    {
+      "cpv_division_code": "90",
+      "cpv_division_label": "Sewage, refuse, cleaning and environmental services",
+      "notice_records": 729
+    },
+    {
+      "cpv_division_code": "44",
+      "cpv_division_label": "Construction materials and structures (doors, windows, fencing)",
+      "notice_records": 617
+    },
+    {
+      "cpv_division_code": "72",
+      "cpv_division_label": "IT services: consulting, software development, internet and support",
+      "notice_records": 616
+    },
+    {
+      "cpv_division_code": "39",
+      "cpv_division_label": "Furniture, furnishings, domestic appliances and cleaning products",
+      "notice_records": 459
+    },
+    {
+      "cpv_division_code": "30",
+      "cpv_division_label": "Office and computing machinery and supplies",
+      "notice_records": 448
+    },
+    {
+      "cpv_division_code": "31",
+      "cpv_division_label": "Electrical machinery, lighting and cables",
+      "notice_records": 432
+    },
+    {
+      "cpv_division_code": "42",
+      "cpv_division_label": "Industrial machinery",
+      "notice_records": 364
+    },
+    {
+      "cpv_division_code": "09",
+      "cpv_division_label": "Fuels, petroleum products and electricity",
+      "notice_records": 341
+    },
+    {
+      "cpv_division_code": "48",
+      "cpv_division_label": "Software packages and information systems",
+      "notice_records": 338
+    },
+    {
+      "cpv_division_code": "15",
+      "cpv_division_label": "Food, beverages and tobacco",
+      "notice_records": 323
+    },
+    {
+      "cpv_division_code": "85",
+      "cpv_division_label": "Health and social work services",
+      "notice_records": 308
+    },
+    {
+      "cpv_division_code": "38",
+      "cpv_division_label": "Laboratory, optical and precision equipment",
+      "notice_records": 267
+    },
+    {
+      "cpv_division_code": "77",
+      "cpv_division_label": "Agricultural, forestry, horticultural and grounds maintenance services",
+      "notice_records": 249
+    },
+    {
+      "cpv_division_code": "66",
+      "cpv_division_label": "Financial and insurance services",
+      "notice_records": 225
+    },
+    {
+      "cpv_division_code": "60",
+      "cpv_division_label": "Transport services (incl. taxis, buses, removals)",
+      "notice_records": 218
+    },
+    {
+      "cpv_division_code": "35",
+      "cpv_division_label": "Security, fire-fighting, police and defence equipment",
+      "notice_records": 206
+    },
+    {
+      "cpv_division_code": "55",
+      "cpv_division_label": "Hotel, restaurant and catering services",
+      "notice_records": 195
+    },
+    {
+      "cpv_division_code": "92",
+      "cpv_division_label": "Recreational, cultural and sporting services",
+      "notice_records": 195
+    },
+    {
+      "cpv_division_code": "32",
+      "cpv_division_label": "Radio, TV, communication and telecoms equipment",
+      "notice_records": 194
+    },
+    {
+      "cpv_division_code": "98",
+      "cpv_division_label": "Other community, social and personal services",
+      "notice_records": 184
+    },
+    {
+      "cpv_division_code": "80",
+      "cpv_division_label": "Education and training services",
+      "notice_records": 182
+    },
+    {
+      "cpv_division_code": "24",
+      "cpv_division_label": "Chemical products",
+      "notice_records": 179
+    },
+    {
+      "cpv_division_code": "18",
+      "cpv_division_label": "Clothing, footwear, uniforms and workwear",
+      "notice_records": 156
+    },
+    {
+      "cpv_division_code": "03",
+      "cpv_division_label": "Agricultural, farming, fishing and forestry products",
+      "notice_records": 152
+    },
+    {
+      "cpv_division_code": "51",
+      "cpv_division_label": "Installation services",
+      "notice_records": 140
+    },
+    {
+      "cpv_division_code": "22",
+      "cpv_division_label": "Printed matter and related products",
+      "notice_records": 128
+    },
+    {
+      "cpv_division_code": "37",
+      "cpv_division_label": "Musical instruments, sport goods, games and toys",
+      "notice_records": 125
+    },
+    {
+      "cpv_division_code": "43",
+      "cpv_division_label": "Mining and construction machinery",
+      "notice_records": 125
+    },
+    {
+      "cpv_division_code": "63",
+      "cpv_division_label": "Supporting transport services and travel agencies",
+      "notice_records": 86
+    },
+    {
+      "cpv_division_code": "64",
+      "cpv_division_label": "Postal and telecommunications services",
+      "notice_records": 78
+    },
+    {
+      "cpv_division_code": "75",
+      "cpv_division_label": "Administration, defence and social security services",
+      "notice_records": 77
+    },
+    {
+      "cpv_division_code": "73",
+      "cpv_division_label": "Research and development services",
+      "notice_records": 75
+    },
+    {
+      "cpv_division_code": "14",
+      "cpv_division_label": "Mining and quarrying products",
+      "notice_records": 70
+    },
+    {
+      "cpv_division_code": "19",
+      "cpv_division_label": "Leather, textiles and plastic materials",
+      "notice_records": 57
+    },
+    {
+      "cpv_division_code": "16",
+      "cpv_division_label": "Agricultural machinery",
+      "notice_records": 44
+    },
+    {
+      "cpv_division_code": "70",
+      "cpv_division_label": "Real estate services",
+      "notice_records": 44
+    },
+    {
+      "cpv_division_code": "65",
+      "cpv_division_label": "Public utilities",
+      "notice_records": 38
+    },
+    {
+      "cpv_division_code": "76",
+      "cpv_division_label": "Oil and gas industry services",
+      "notice_records": 16
+    },
+    {
+      "cpv_division_code": "41",
+      "cpv_division_label": "Collected and purified water",
+      "notice_records": 7
+    }
+  ],
+  "definitions": {
+    "record_unit": "Stored notice record after import filtering and duplicate suppression; not a verified unique procurement. Source records, updates and lots can overlap.",
+    "first_imported_last_seven_days": "First insertion into Contract Alerts during the inclusive UTC window, not buyer publication time. This launch batch includes earlier publications.",
+    "active_future_deadline_notice_records": "Stored active-status records with a parseable response deadline strictly after the snapshot time. Not real-time confirmation that bidding remains open.",
+    "countries": "Distinct recognized ISO3 delivery-country assignments in each active future-deadline record. A cross-border notice can appear in multiple rows. National imports may use publishing market; confirm actual delivery locations.",
+    "regions": "Distinct stored UK region codes for active future-deadline records, with buyer-address fallback and approximate postcode mapping. Other countries generally have no UK region.",
+    "cpv_divisions": "Distinct recognized two-digit CPV prefixes per active future-deadline record; overlapping groups using simplified labels.",
+    "feed_last_checked_utc": "Last completed importer checkpoint, not completeness certification or independent crawl receipt.",
+    "latest_import_failed": "Boolean from the last import status, also shown on the public coverage page. No error details are exported."
+  },
+  "rights_note": "These are Contract Alerts aggregate counts, not a redistribution of full tender notices or documents. Public sources remain subject to their own terms. UK notice information uses the Open Government Licence where applicable; TED data is copyright European Union. Source links identify provenance."
+}

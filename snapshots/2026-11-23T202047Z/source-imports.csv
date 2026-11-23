@@ -1,0 +1,55 @@
+source_code,source_name,source_url,first_imported_last_seven_days,active_future_deadline_notice_records,feed_last_checked_utc,latest_import_failed
+fts,Find a Tender,https://www.find-tender.service.gov.uk/,250,244,2026-11-23T17:09:06.126366+00:00,False
+cf,Contracts Finder,https://www.contractsfinder.service.gov.uk/,24,22,2026-11-23T17:09:06.126366+00:00,False
+ted,TED: Ireland and Europe,https://ted.europa.eu/,1746,1736,2026-11-23T17:09:06.126366+00:00,False
+etenders,Ireland: eTenders,https://www.etenders.gov.ie/,32,30,2026-11-23T17:09:06.126366+00:00,False
+boamp,France: BOAMP,https://www.boamp.fr/,159,154,2026-11-23T17:09:06.126366+00:00,False
+bund,Germany: Bekanntmachungsservice,https://oeffentlichevergabe.de/ui/,272,252,2026-11-23T17:09:06.126366+00:00,False
+bzp,Poland: BZP,https://ezamowienia.gov.pl/,569,569,2026-11-23T17:09:06.126366+00:00,False
+tenderned,Netherlands: TenderNed,https://www.tenderned.nl/,57,56,2026-11-23T17:09:06.126366+00:00,False
+cvpis,Lithuania: CVP IS,https://viesiejipirkimai.lt/,80,80,2026-11-23T17:09:06.126366+00:00,False
+etendersni,Northern Ireland: eTendersNI,https://etendersni.gov.uk/,4,4,2026-11-23T17:09:06.126366+00:00,False
+cyproc,Cyprus: eProcurement,https://www.eprocurement.gov.cy/,8,8,2026-11-23T17:09:06.126366+00:00,False
+malta,Malta: ePPS,https://www.etenders.gov.mt/,21,21,2026-11-23T17:09:06.126366+00:00,False
+iub,Latvia: IUB,https://www.iub.gov.lv/,7,7,2026-11-23T17:09:06.126366+00:00,False
+eop,Bulgaria: CAIS EOP,https://app.eop.bg/,0,0,2026-11-23T17:09:06.126366+00:00,False
+placsp,Spain: PLACSP,https://contrataciondelestado.es/,72,72,2026-11-23T17:09:06.126366+00:00,False
+placsp-regional,Spain: aggregated regional notices,https://contrataciondelestado.es/,8,8,2026-11-23T17:09:06.126366+00:00,False
+placsp-small,Spain: minor contracts,https://contrataciondelestado.es/,0,0,2026-11-23T17:09:06.126366+00:00,False
+pcs,Scotland: Public Contracts Scotland,https://www.publiccontractsscotland.gov.uk/,9,8,2026-11-23T17:09:04.176645+00:00,False
+s2w,Wales: Sell2Wales,https://www.sell2wales.gov.wales/,3,3,2026-11-23T17:09:06.126366+00:00,False
+dsp,UK: Defence Sourcing Portal,https://contracts.mod.uk/,45,45,2026-11-23T17:09:06.126366+00:00,False
+esourcingni,Northern Ireland: eSourcing NI,https://e-sourcingni.ukp.app.jaggaer.com/,24,24,2026-11-23T17:09:06.126366+00:00,False
+jaggaer-public,UK: Jaggaer shared public opportunities,https://contracts.mod.uk/esop/guest/go/public/opportunity/global,69,69,2026-11-23T17:09:06.126366+00:00,False
+procontract,UK: ProContract public opportunities,https://procontract.due-north.com/Opportunities,12,12,2026-11-23T17:09:06.126366+00:00,False
+ctm-uk,UK: EU-Supply public opportunities,https://uk.eu-supply.com/ctm/supplier/publictenders,2,2,2026-11-23T17:09:06.126366+00:00,False
+ctm-eu,Europe: EU-Supply public opportunities,https://eu.eu-supply.com/ctm/supplier/publictenders,9,9,2026-11-23T17:09:06.126366+00:00,False
+atamis-health,UK: Atamis Health Family public opportunities,https://atamis-1928.my.salesforce-sites.com/?SearchType=Projects,157,156,2026-11-23T17:09:06.126366+00:00,False
+atamis-companies,UK: Companies House public opportunities,https://atamis-8005.my.salesforce-sites.com/?SearchType=Projects,0,0,2026-11-23T17:09:06.126366+00:00,False
+kimdis,Greece: KIMDIS,https://cerpp.eprocurement.gov.gr/,5872,5865,2026-11-23T17:09:06.126366+00:00,False
+udbud,Denmark: Udbud.dk,https://udbud.dk/,791,581,2026-11-23T17:09:06.126366+00:00,False
+anac,Italy: ANAC legal notices,https://pubblicitalegale.anticorruzione.it/,119,119,2026-11-23T17:09:06.126366+00:00,False
+hilma,Finland: HILMA,https://www.hankintailmoitukset.fi/,43,43,2026-11-23T17:09:06.126366+00:00,False
+usp,Austria: USP,https://ausschreibungen.usp.gv.at/,5,5,2026-11-23T17:09:06.126366+00:00,False
+nen,Czechia: NEN,https://nen.nipez.cz/,83,83,2026-11-23T17:09:06.126366+00:00,False
+vvz,Czechia: VVZ bulletin,https://vvz.nipez.cz/,33,29,2026-11-23T17:09:06.126366+00:00,False
+seap,Romania: SEAP,https://www.e-licitatie.ro/,111,111,2026-11-23T17:09:06.126366+00:00,False
+rhr,Estonia: RHR,https://riigihanked.riik.ee/,28,28,2026-11-23T17:09:04.176645+00:00,False
+bosa,Belgium: BOSA bulletin,https://www.publicprocurement.be/bda,64,64,2026-11-23T17:09:06.126366+00:00,False
+ekr,Hungary: EKR,https://ekr.gov.hu/,28,27,2026-11-23T17:09:06.126366+00:00,False
+uvo,Slovakia: ÚVO bulletin,https://www.uvo.gov.sk/vestnik-a-registre/vestnik,24,24,2026-11-23T17:09:06.126366+00:00,False
+pmp,Luxembourg: public procurement portal,https://pmp.b2g.etat.lu/,15,15,2026-11-23T17:09:06.126366+00:00,False
+place,France: PLACE,https://www.marches-publics.gouv.fr/,105,105,2026-11-23T17:09:06.126366+00:00,False
+pjn,Slovenia: public procurement bulletin,https://www.enarocanje.si/,38,36,2026-11-23T17:09:06.126366+00:00,False
+eojn,Croatia: EOJN,https://eojn.hr/,227,227,2026-11-23T17:09:04.176645+00:00,False
+kommers,Sweden: Kommers Annons,https://www.kommersannons.se/Notices/TenderNotices,26,26,2026-11-23T17:09:06.126366+00:00,False
+clira,Sweden: Clira public announcements,https://public.clira.io/upphandling,399,372,2026-11-23T17:09:06.126366+00:00,False
+dre,Portugal: Diário da República,https://diariodarepublica.pt/,133,130,2026-11-23T17:09:06.126366+00:00,False
+mercell-public,Mercell: anonymous public notices,https://app.mercell.com/search,1259,1243,2026-11-23T17:09:06.126366+00:00,False
+konstpool,Sweden: Konstpool art commissions,https://konstpool.se/sv/calls,8,8,2026-11-23T17:09:06.126366+00:00,False
+ecb,Europe: European Central Bank tenders,https://www.ecb.europa.eu/ecb/jobsproc/tenders/html/index.en.html,1,1,2026-11-23T17:09:06.126366+00:00,False
+eib,Europe: European Investment Bank procurement,https://www.eib.org/en/about/procurement/index,8,6,2026-11-23T17:09:06.126366+00:00,False
+eu-tenders,Europe: EU Funding & Tenders procurement,https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders,165,109,2026-11-23T17:09:06.126366+00:00,False
+intend-public,UK: In-tend public buyer opportunities,https://supplier.in-tend.co.uk/,17,17,2026-11-23T17:09:06.126366+00:00,False
+delta-public,UK: Delta public buyer notices,https://www.delta-esourcing.com/,1,1,2026-11-23T17:09:06.126366+00:00,False
+atamis-public,UK: additional Atamis public buyer opportunities,https://atamis-7669.my.salesforce-sites.com/?SearchType=Projects,13,12,2026-11-23T17:09:06.126366+00:00,False

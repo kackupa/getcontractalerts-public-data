@@ -1,7 +1,7 @@
 # Using notice counts to find work your business can deliver
 
-Published by Contract Alerts, 22 November 2026. These are first-party supplier resources, separate from
-this repository's static 21 November 2026 aggregate snapshot. Contract Alerts sells a tender-matching
+Published by Contract Alerts, updated 23 November 2026. These are first-party supplier resources, separate from
+this repository's dated aggregate snapshots. Contract Alerts sells a tender-matching
 subscription; the official search instructions and checklist linked here are free to use without signing up.
 
 ## Start with an actual notice, not a total
@@ -15,6 +15,10 @@ Use a specific service search and open the official notice. Check the place of d
 scope, buyer documents and response deadline. Contract values can cover multiple years or lots, or be a
 framework ceiling rather than guaranteed spending. A future deadline in a stored record does not prove
 that a procurement has not since been changed or withdrawn.
+
+## Find European public tenders
+
+Start with the [European tender-search guide](https://getcontractalerts.com/guides/find-european-tenders), which links the public sources assigned to all 43 supported markets. It explains why TED and national portals can carry different work, how to combine service terms with CPV classifications, and how to create a free TED search alert. The [country directory](https://getcontractalerts.com/countries) provides country editions and eight public-page languages. The account and emails remain in English.
 
 ## Free practical resources
 
@@ -41,7 +45,7 @@ that a procurement has not since been changed or withdrawn.
   overhaul/refurbishment records under CPV `45453`, with questions about sites, trades, access, programme and pricing. It is not a list of all construction work.
 
 These site lists are generated from stored notice records when requested; they are not saved snapshot
-downloads or personalised matches. The supported direct imports are Find a Tender and Contracts Finder.
+downloads or personalised matches. The lists now use supported European public sources, with the original notice currency, recorded location and source. See the [coverage page](https://getcontractalerts.com/coverage) for the current feeds and exclusions.
 They exclude notices without a usable future deadline, can contain cross-source overlap and do not
 cover every procurement portal. Check the official notice and any relevant regional portal yourself.
 
@@ -53,6 +57,9 @@ matching cap, use of notice summaries, coverage exclusions and the publisher's c
 It is not an independent review, a promise of complete coverage or evidence of contracts won.
 
 ## Official sources
+
+- [TED](https://ted.europa.eu/)
+- [European Commission: searching and bidding for public tenders](https://europa.eu/youreurope/business/selling-in-eu/public-contracts/search-bid-public-tender/index_en.htm)
 
 - [Find a Tender](https://www.find-tender.service.gov.uk/)
 - [Contracts Finder](https://www.gov.uk/contracts-finder)
