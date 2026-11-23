@@ -1,8 +1,45 @@
-# Contract Alerts imported-notice coverage data
+# European public tender sources and imported-notice data
 
-Dated aggregate counts from [Contract Alerts](https://getcontractalerts.com/), an independent UK tender matching service. This resource describes the notices in our own imports. It is **not a complete UK procurement dataset**, an official government publication, or a live feed.
+Published by [Contract Alerts](https://getcontractalerts.com/), an independent service matching public tenders to small businesses across Europe. Find sources, use free supplier resources and inspect dated aggregate counts from our imports. These are first-party resources, not an official publication, a complete procurement dataset or evidence of contracts won.
 
-## Available snapshot
+## Find work across Europe
+
+- [European tender-search guide and country-source directory](https://getcontractalerts.com/guides/find-european-tenders): TED, national sources, practical searches and free official-alert instructions.
+- [Choose a country and language](https://getcontractalerts.com/countries): all 43 supported markets, public sources and current notice samples.
+- [Supplier reading notes and free bid checklist](SUPPLIER-RESOURCES.md): browser and printable tools, plus cleaning, grounds-maintenance, IT-support and refurbishment starting points.
+- [Current source checks and coverage limits](https://getcontractalerts.com/coverage#current-imports): live aggregate figures after overnight imports.
+
+## European snapshot: 23 November 2026
+
+Captured **2026-11-23T20:20:47.180668+00:00 (UTC)** from a read-only database transaction. The seven-day first-import window starts at 2026-11-16T20:20:47.180668+00:00 and includes both endpoints.
+
+| Measure | Count |
+| --- | ---: |
+| Stored notice records | 13,255 |
+| First imported during the seven-day window | 13,255 |
+| Stored active-status records with a future response deadline | 12,878 |
+| Supported country rows | 43 |
+| Configured public source rows | 54 |
+
+This launch batch includes notices published earlier. **First imported this week does not mean newly published this week.** Future deadlines are database fields, not a fresh check of whether the buyer still accepts bids. Records, countries and CPV groups can overlap. Do not sum country or classification rows to estimate unique procurements.
+
+Download:
+
+- [Counts, definitions, timestamps and provenance (JSON)](snapshots/2026-11-23T202047Z/snapshot.json)
+- [Source import counts and public feed-check metadata (CSV)](snapshots/2026-11-23T202047Z/source-imports.csv)
+- [Active future-deadline records by country (CSV)](snapshots/2026-11-23T202047Z/active-future-deadline-by-country.csv)
+- [Active future-deadline records by broad CPV group (CSV)](snapshots/2026-11-23T202047Z/active-future-deadline-by-cpv-division.csv)
+- [Active future-deadline records by UK region (CSV)](snapshots/2026-11-23T202047Z/active-future-deadline-by-uk-region.csv)
+
+Country assignments use the recorded delivery country where supplied; national feeds can use their publishing market. Check the notice's actual delivery locations. The UK-region table does not describe the other European countries. Schema 2.0 explicitly requires stored active status for deadline populations; the historical schema 1.0 snapshot below used a different definition. Compare definitions before comparing counts.
+
+The export includes no customer profiles, subscriber figures, private match assessments, notice titles, contacts, documents or attachments. Source URLs and last-check metadata are already public on the coverage page. A successful check is not a claim of exhaustive coverage. TED and national feeds can describe the same procurement.
+
+All 54 source rows identify their public portals. TED, national portals across the EU and supported UK regional services are included in the current imports. Countries without a configured national connector can rely on TED or another supported cross-border feed; their presence does not imply complete national coverage.
+
+The snapshot is static. No schedule is promised. Source notice rights remain with their publishers; this publication offers aggregate counts and explanations. See [licence and attribution](LICENSE.md). Run `python verify.py` to check hashes, CSV/JSON agreement, UTC windows and count relationships. These checks verify internal consistency, not completeness or suitability for bidding.
+
+## Historical UK snapshot: 21 November 2026
 
 **As of 2026-11-21T23:53:36.051653+00:00 (UTC).** The seven-day first-import window starts at 2026-11-14T23:53:36.051653+00:00 and includes both endpoints.
 
@@ -33,7 +70,7 @@ A notice can appear in more than one region or CPV group. **Do not sum either ta
 
 The importer keeps tender-tagged releases with active, planned or unstated status, excluding deadlines already past at import time. It uses source/OCID records and a normalized buyer-and-title heuristic to suppress some cross-source duplicates. This is not a verified count of unique procurements: updates, lots, similar titles, missing fields and source differences can affect the result. Stored classifications can differ from later source updates.
 
-Imports are bounded and run periodically. Feed checkpoints record importer runs; they do not certify that every release was retrieved. We do not directly import Public Contracts Scotland, Sell2Wales or eTendersNI. Some records relating to those nations can still appear through the two supported national feeds.
+Imports are bounded and run periodically. Feed checkpoints record importer runs; they do not certify that every release was retrieved. At this historical snapshot, the two direct sources were Find a Tender and Contracts Finder. Current coverage has since expanded; see the European snapshot above and the live coverage page.
 
 These aggregates contain no customer profiles, subscriber counts, private match assessments, notice-level contacts or tender documents. They do not measure contracts won, spending, supplier eligibility or AI matching accuracy.
 
