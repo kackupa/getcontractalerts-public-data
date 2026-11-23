@@ -1,0 +1,1406 @@
+{
+  "schema_version": "trade-1.0",
+  "as_of_utc": "2026-11-23T21:26:59.898385+00:00",
+  "publisher": "Contract Alerts",
+  "publisher_url": "https://getcontractalerts.com/",
+  "population": "Stored active-status notice records with a parseable response deadline strictly after the capture time.",
+  "counting": "Each stored record counts at most once in each sector. Sectors and country rows can overlap. Source rows partition each sector.",
+  "classification": "Stored CPV string starts with the disclosed prefix. No keyword expansion, private profile matching or full-document analysis.",
+  "country_method": "Distinct known stored country codes. National feeds may assign publishing market instead of delivery country. Unknown countries are separate.",
+  "deadline_method": "UTC instants; timezone-free stored deadlines treated as UTC. Buckets are mutually exclusive and upper bounds inclusive.",
+  "limitations": "Not the whole procurement market, unique procurements, a publication-rate measure, a ranking of national demand, verified live bidding status or supplier eligibility. Cross-source duplicates can remain. Missing classifications and feed differences affect counts.",
+  "update_policy": "Static dated snapshot; no scheduled updates promised.",
+  "total_stored_records": 13255,
+  "inactive_records": 2,
+  "active_unusable_deadline_records": 366,
+  "active_past_or_equal_deadline_records": 22,
+  "active_future_deadline_records": 12865,
+  "distinct_stored_records_in_selected_sectors": 477,
+  "sectors": [
+    {
+      "sector": "cleaning",
+      "name": "Cleaning",
+      "page_path": "/tenders/cleaning",
+      "cpv_prefix": "9091",
+      "scope": "Building, office, school and window-cleaning services classified under CPV 9091. Pest control and wider facilities contracts without that classification are not included in this list.",
+      "active_future_deadline_records": 199,
+      "records_without_known_country": 0,
+      "countries": [
+        {
+          "country_code": "GBR",
+          "country_name": "United Kingdom",
+          "records": 9
+        },
+        {
+          "country_code": "IRL",
+          "country_name": "Ireland",
+          "records": 0
+        },
+        {
+          "country_code": "ALB",
+          "country_name": "Albania",
+          "records": 0
+        },
+        {
+          "country_code": "AND",
+          "country_name": "Andorra",
+          "records": 0
+        },
+        {
+          "country_code": "AUT",
+          "country_name": "Austria",
+          "records": 2
+        },
+        {
+          "country_code": "BEL",
+          "country_name": "Belgium",
+          "records": 0
+        },
+        {
+          "country_code": "BIH",
+          "country_name": "Bosnia and Herzegovina",
+          "records": 0
+        },
+        {
+          "country_code": "BGR",
+          "country_name": "Bulgaria",
+          "records": 0
+        },
+        {
+          "country_code": "HRV",
+          "country_name": "Croatia",
+          "records": 3
+        },
+        {
+          "country_code": "CYP",
+          "country_name": "Cyprus",
+          "records": 0
+        },
+        {
+          "country_code": "CZE",
+          "country_name": "Czechia",
+          "records": 8
+        },
+        {
+          "country_code": "DNK",
+          "country_name": "Denmark",
+          "records": 4
+        },
+        {
+          "country_code": "EST",
+          "country_name": "Estonia",
+          "records": 0
+        },
+        {
+          "country_code": "FIN",
+          "country_name": "Finland",
+          "records": 0
+        },
+        {
+          "country_code": "FRA",
+          "country_name": "France",
+          "records": 13
+        },
+        {
+          "country_code": "DEU",
+          "country_name": "Germany",
+          "records": 26
+        },
+        {
+          "country_code": "GRC",
+          "country_name": "Greece",
+          "records": 69
+        },
+        {
+          "country_code": "HUN",
+          "country_name": "Hungary",
+          "records": 0
+        },
+        {
+          "country_code": "ISL",
+          "country_name": "Iceland",
+          "records": 0
+        },
+        {
+          "country_code": "ITA",
+          "country_name": "Italy",
+          "records": 0
+        },
+        {
+          "country_code": "LVA",
+          "country_name": "Latvia",
+          "records": 0
+        },
+        {
+          "country_code": "LIE",
+          "country_name": "Liechtenstein",
+          "records": 0
+        },
+        {
+          "country_code": "LTU",
+          "country_name": "Lithuania",
+          "records": 0
+        },
+        {
+          "country_code": "LUX",
+          "country_name": "Luxembourg",
+          "records": 0
+        },
+        {
+          "country_code": "MLT",
+          "country_name": "Malta",
+          "records": 1
+        },
+        {
+          "country_code": "MDA",
+          "country_name": "Moldova",
+          "records": 0
+        },
+        {
+          "country_code": "MCO",
+          "country_name": "Monaco",
+          "records": 0
+        },
+        {
+          "country_code": "MNE",
+          "country_name": "Montenegro",
+          "records": 0
+        },
+        {
+          "country_code": "NLD",
+          "country_name": "Netherlands",
+          "records": 4
+        },
+        {
+          "country_code": "MKD",
+          "country_name": "North Macedonia",
+          "records": 0
+        },
+        {
+          "country_code": "NOR",
+          "country_name": "Norway",
+          "records": 0
+        },
+        {
+          "country_code": "POL",
+          "country_name": "Poland",
+          "records": 22
+        },
+        {
+          "country_code": "PRT",
+          "country_name": "Portugal",
+          "records": 6
+        },
+        {
+          "country_code": "ROU",
+          "country_name": "Romania",
+          "records": 2
+        },
+        {
+          "country_code": "SMR",
+          "country_name": "San Marino",
+          "records": 0
+        },
+        {
+          "country_code": "SRB",
+          "country_name": "Serbia",
+          "records": 0
+        },
+        {
+          "country_code": "SVK",
+          "country_name": "Slovakia",
+          "records": 0
+        },
+        {
+          "country_code": "SVN",
+          "country_name": "Slovenia",
+          "records": 3
+        },
+        {
+          "country_code": "ESP",
+          "country_name": "Spain",
+          "records": 16
+        },
+        {
+          "country_code": "SWE",
+          "country_name": "Sweden",
+          "records": 11
+        },
+        {
+          "country_code": "CHE",
+          "country_name": "Switzerland",
+          "records": 0
+        },
+        {
+          "country_code": "TUR",
+          "country_name": "Türkiye",
+          "records": 0
+        },
+        {
+          "country_code": "UKR",
+          "country_name": "Ukraine",
+          "records": 0
+        }
+      ],
+      "sources": [
+        {
+          "source_code": "boamp",
+          "source_name": "France — BOAMP",
+          "source_url": "https://www.boamp.fr/",
+          "records": 1
+        },
+        {
+          "source_code": "bund",
+          "source_name": "Germany — Bekanntmachungsservice",
+          "source_url": "https://oeffentlichevergabe.de/ui/",
+          "records": 8
+        },
+        {
+          "source_code": "bzp",
+          "source_name": "Poland — BZP",
+          "source_url": "https://ezamowienia.gov.pl/",
+          "records": 17
+        },
+        {
+          "source_code": "clira",
+          "source_name": "Sweden — Clira public announcements",
+          "source_url": "https://public.clira.io/upphandling",
+          "records": 5
+        },
+        {
+          "source_code": "dre",
+          "source_name": "Portugal — Diário da República",
+          "source_url": "https://diariodarepublica.pt/",
+          "records": 2
+        },
+        {
+          "source_code": "eojn",
+          "source_name": "Croatia — EOJN",
+          "source_url": "https://eojn.hr/",
+          "records": 3
+        },
+        {
+          "source_code": "eu-tenders",
+          "source_name": "Europe — EU Funding & Tenders procurement",
+          "source_url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders",
+          "records": 2
+        },
+        {
+          "source_code": "fts",
+          "source_name": "Find a Tender",
+          "source_url": "https://www.find-tender.service.gov.uk/",
+          "records": 8
+        },
+        {
+          "source_code": "kimdis",
+          "source_name": "Greece — KIMDIS",
+          "source_url": "https://cerpp.eprocurement.gov.gr/",
+          "records": 69
+        },
+        {
+          "source_code": "malta",
+          "source_name": "Malta — ePPS",
+          "source_url": "https://www.etenders.gov.mt/",
+          "records": 1
+        },
+        {
+          "source_code": "mercell-public",
+          "source_name": "Mercell — anonymous public notices",
+          "source_url": "https://app.mercell.com/search",
+          "records": 27
+        },
+        {
+          "source_code": "nen",
+          "source_name": "Czechia — NEN",
+          "source_url": "https://nen.nipez.cz/",
+          "records": 4
+        },
+        {
+          "source_code": "pjn",
+          "source_name": "Slovenia — public procurement bulletin",
+          "source_url": "https://www.enarocanje.si/",
+          "records": 2
+        },
+        {
+          "source_code": "placsp",
+          "source_name": "Spain — PLACSP",
+          "source_url": "https://contrataciondelestado.es/",
+          "records": 3
+        },
+        {
+          "source_code": "placsp-regional",
+          "source_name": "Spain — aggregated regional notices",
+          "source_url": "https://contrataciondelestado.es/",
+          "records": 1
+        },
+        {
+          "source_code": "ted",
+          "source_name": "TED — Ireland and Europe",
+          "source_url": "https://ted.europa.eu/",
+          "records": 39
+        },
+        {
+          "source_code": "tenderned",
+          "source_name": "Netherlands — TenderNed",
+          "source_url": "https://www.tenderned.nl/",
+          "records": 2
+        },
+        {
+          "source_code": "udbud",
+          "source_name": "Denmark — Udbud.dk",
+          "source_url": "https://udbud.dk/",
+          "records": 4
+        },
+        {
+          "source_code": "vvz",
+          "source_name": "Czechia — VVZ bulletin",
+          "source_url": "https://vvz.nipez.cz/",
+          "records": 1
+        }
+      ],
+      "deadline_buckets": [
+        {
+          "bucket": "up_to_3_days",
+          "records": 28
+        },
+        {
+          "bucket": "over_3_to_7_days",
+          "records": 22
+        },
+        {
+          "bucket": "over_7_to_30_days",
+          "records": 125
+        },
+        {
+          "bucket": "over_30_days",
+          "records": 24
+        }
+      ]
+    },
+    {
+      "sector": "grounds",
+      "name": "Grounds maintenance",
+      "page_path": "/tenders/grounds-maintenance",
+      "cpv_prefix": "773",
+      "scope": "Horticultural and grounds-maintenance services classified under CPV 773, including grass cutting, planting and related tree or hedge work. A construction-only landscaping contract or tree notice under another code may not appear.",
+      "active_future_deadline_records": 137,
+      "records_without_known_country": 0,
+      "countries": [
+        {
+          "country_code": "GBR",
+          "country_name": "United Kingdom",
+          "records": 14
+        },
+        {
+          "country_code": "IRL",
+          "country_name": "Ireland",
+          "records": 0
+        },
+        {
+          "country_code": "ALB",
+          "country_name": "Albania",
+          "records": 0
+        },
+        {
+          "country_code": "AND",
+          "country_name": "Andorra",
+          "records": 0
+        },
+        {
+          "country_code": "AUT",
+          "country_name": "Austria",
+          "records": 0
+        },
+        {
+          "country_code": "BEL",
+          "country_name": "Belgium",
+          "records": 6
+        },
+        {
+          "country_code": "BIH",
+          "country_name": "Bosnia and Herzegovina",
+          "records": 0
+        },
+        {
+          "country_code": "BGR",
+          "country_name": "Bulgaria",
+          "records": 2
+        },
+        {
+          "country_code": "HRV",
+          "country_name": "Croatia",
+          "records": 0
+        },
+        {
+          "country_code": "CYP",
+          "country_name": "Cyprus",
+          "records": 1
+        },
+        {
+          "country_code": "CZE",
+          "country_name": "Czechia",
+          "records": 3
+        },
+        {
+          "country_code": "DNK",
+          "country_name": "Denmark",
+          "records": 8
+        },
+        {
+          "country_code": "EST",
+          "country_name": "Estonia",
+          "records": 0
+        },
+        {
+          "country_code": "FIN",
+          "country_name": "Finland",
+          "records": 2
+        },
+        {
+          "country_code": "FRA",
+          "country_name": "France",
+          "records": 12
+        },
+        {
+          "country_code": "DEU",
+          "country_name": "Germany",
+          "records": 5
+        },
+        {
+          "country_code": "GRC",
+          "country_name": "Greece",
+          "records": 51
+        },
+        {
+          "country_code": "HUN",
+          "country_name": "Hungary",
+          "records": 0
+        },
+        {
+          "country_code": "ISL",
+          "country_name": "Iceland",
+          "records": 0
+        },
+        {
+          "country_code": "ITA",
+          "country_name": "Italy",
+          "records": 0
+        },
+        {
+          "country_code": "LVA",
+          "country_name": "Latvia",
+          "records": 0
+        },
+        {
+          "country_code": "LIE",
+          "country_name": "Liechtenstein",
+          "records": 0
+        },
+        {
+          "country_code": "LTU",
+          "country_name": "Lithuania",
+          "records": 1
+        },
+        {
+          "country_code": "LUX",
+          "country_name": "Luxembourg",
+          "records": 1
+        },
+        {
+          "country_code": "MLT",
+          "country_name": "Malta",
+          "records": 0
+        },
+        {
+          "country_code": "MDA",
+          "country_name": "Moldova",
+          "records": 0
+        },
+        {
+          "country_code": "MCO",
+          "country_name": "Monaco",
+          "records": 0
+        },
+        {
+          "country_code": "MNE",
+          "country_name": "Montenegro",
+          "records": 0
+        },
+        {
+          "country_code": "NLD",
+          "country_name": "Netherlands",
+          "records": 4
+        },
+        {
+          "country_code": "MKD",
+          "country_name": "North Macedonia",
+          "records": 0
+        },
+        {
+          "country_code": "NOR",
+          "country_name": "Norway",
+          "records": 0
+        },
+        {
+          "country_code": "POL",
+          "country_name": "Poland",
+          "records": 6
+        },
+        {
+          "country_code": "PRT",
+          "country_name": "Portugal",
+          "records": 4
+        },
+        {
+          "country_code": "ROU",
+          "country_name": "Romania",
+          "records": 0
+        },
+        {
+          "country_code": "SMR",
+          "country_name": "San Marino",
+          "records": 0
+        },
+        {
+          "country_code": "SRB",
+          "country_name": "Serbia",
+          "records": 0
+        },
+        {
+          "country_code": "SVK",
+          "country_name": "Slovakia",
+          "records": 0
+        },
+        {
+          "country_code": "SVN",
+          "country_name": "Slovenia",
+          "records": 2
+        },
+        {
+          "country_code": "ESP",
+          "country_name": "Spain",
+          "records": 6
+        },
+        {
+          "country_code": "SWE",
+          "country_name": "Sweden",
+          "records": 9
+        },
+        {
+          "country_code": "CHE",
+          "country_name": "Switzerland",
+          "records": 0
+        },
+        {
+          "country_code": "TUR",
+          "country_name": "Türkiye",
+          "records": 0
+        },
+        {
+          "country_code": "UKR",
+          "country_name": "Ukraine",
+          "records": 0
+        }
+      ],
+      "sources": [
+        {
+          "source_code": "bund",
+          "source_name": "Germany — Bekanntmachungsservice",
+          "source_url": "https://oeffentlichevergabe.de/ui/",
+          "records": 1
+        },
+        {
+          "source_code": "bzp",
+          "source_name": "Poland — BZP",
+          "source_url": "https://ezamowienia.gov.pl/",
+          "records": 3
+        },
+        {
+          "source_code": "cf",
+          "source_name": "Contracts Finder",
+          "source_url": "https://www.contractsfinder.service.gov.uk/",
+          "records": 1
+        },
+        {
+          "source_code": "clira",
+          "source_name": "Sweden — Clira public announcements",
+          "source_url": "https://public.clira.io/upphandling",
+          "records": 3
+        },
+        {
+          "source_code": "cvpis",
+          "source_name": "Lithuania — CVP IS",
+          "source_url": "https://viesiejipirkimai.lt/",
+          "records": 1
+        },
+        {
+          "source_code": "cyproc",
+          "source_name": "Cyprus — eProcurement",
+          "source_url": "https://www.eprocurement.gov.cy/",
+          "records": 1
+        },
+        {
+          "source_code": "dre",
+          "source_name": "Portugal — Diário da República",
+          "source_url": "https://diariodarepublica.pt/",
+          "records": 2
+        },
+        {
+          "source_code": "fts",
+          "source_name": "Find a Tender",
+          "source_url": "https://www.find-tender.service.gov.uk/",
+          "records": 12
+        },
+        {
+          "source_code": "hilma",
+          "source_name": "Finland — HILMA",
+          "source_url": "https://www.hankintailmoitukset.fi/",
+          "records": 1
+        },
+        {
+          "source_code": "intend-public",
+          "source_name": "UK — In-tend public buyer opportunities",
+          "source_url": "https://supplier.in-tend.co.uk/",
+          "records": 1
+        },
+        {
+          "source_code": "kimdis",
+          "source_name": "Greece — KIMDIS",
+          "source_url": "https://cerpp.eprocurement.gov.gr/",
+          "records": 51
+        },
+        {
+          "source_code": "mercell-public",
+          "source_name": "Mercell — anonymous public notices",
+          "source_url": "https://app.mercell.com/search",
+          "records": 18
+        },
+        {
+          "source_code": "place",
+          "source_name": "France — PLACE",
+          "source_url": "https://www.marches-publics.gouv.fr/",
+          "records": 2
+        },
+        {
+          "source_code": "placsp",
+          "source_name": "Spain — PLACSP",
+          "source_url": "https://contrataciondelestado.es/",
+          "records": 3
+        },
+        {
+          "source_code": "pmp",
+          "source_name": "Luxembourg — public procurement portal",
+          "source_url": "https://pmp.b2g.etat.lu/",
+          "records": 1
+        },
+        {
+          "source_code": "ted",
+          "source_name": "TED — Ireland and Europe",
+          "source_url": "https://ted.europa.eu/",
+          "records": 26
+        },
+        {
+          "source_code": "tenderned",
+          "source_name": "Netherlands — TenderNed",
+          "source_url": "https://www.tenderned.nl/",
+          "records": 2
+        },
+        {
+          "source_code": "udbud",
+          "source_name": "Denmark — Udbud.dk",
+          "source_url": "https://udbud.dk/",
+          "records": 8
+        }
+      ],
+      "deadline_buckets": [
+        {
+          "bucket": "up_to_3_days",
+          "records": 18
+        },
+        {
+          "bucket": "over_3_to_7_days",
+          "records": 16
+        },
+        {
+          "bucket": "over_7_to_30_days",
+          "records": 71
+        },
+        {
+          "bucket": "over_30_days",
+          "records": 32
+        }
+      ]
+    },
+    {
+      "sector": "it",
+      "name": "IT support",
+      "page_path": "/tenders/it-support",
+      "cpv_prefix": "725",
+      "scope": "Computer-related services recorded under CPV 725, including managed ICT services. This is a narrow starting point: software development, hardware-only purchases and support lots recorded only under other codes may not appear.",
+      "active_future_deadline_records": 44,
+      "records_without_known_country": 0,
+      "countries": [
+        {
+          "country_code": "GBR",
+          "country_name": "United Kingdom",
+          "records": 1
+        },
+        {
+          "country_code": "IRL",
+          "country_name": "Ireland",
+          "records": 3
+        },
+        {
+          "country_code": "ALB",
+          "country_name": "Albania",
+          "records": 0
+        },
+        {
+          "country_code": "AND",
+          "country_name": "Andorra",
+          "records": 0
+        },
+        {
+          "country_code": "AUT",
+          "country_name": "Austria",
+          "records": 0
+        },
+        {
+          "country_code": "BEL",
+          "country_name": "Belgium",
+          "records": 2
+        },
+        {
+          "country_code": "BIH",
+          "country_name": "Bosnia and Herzegovina",
+          "records": 0
+        },
+        {
+          "country_code": "BGR",
+          "country_name": "Bulgaria",
+          "records": 0
+        },
+        {
+          "country_code": "HRV",
+          "country_name": "Croatia",
+          "records": 0
+        },
+        {
+          "country_code": "CYP",
+          "country_name": "Cyprus",
+          "records": 0
+        },
+        {
+          "country_code": "CZE",
+          "country_name": "Czechia",
+          "records": 1
+        },
+        {
+          "country_code": "DNK",
+          "country_name": "Denmark",
+          "records": 0
+        },
+        {
+          "country_code": "EST",
+          "country_name": "Estonia",
+          "records": 0
+        },
+        {
+          "country_code": "FIN",
+          "country_name": "Finland",
+          "records": 0
+        },
+        {
+          "country_code": "FRA",
+          "country_name": "France",
+          "records": 4
+        },
+        {
+          "country_code": "DEU",
+          "country_name": "Germany",
+          "records": 2
+        },
+        {
+          "country_code": "GRC",
+          "country_name": "Greece",
+          "records": 12
+        },
+        {
+          "country_code": "HUN",
+          "country_name": "Hungary",
+          "records": 0
+        },
+        {
+          "country_code": "ISL",
+          "country_name": "Iceland",
+          "records": 1
+        },
+        {
+          "country_code": "ITA",
+          "country_name": "Italy",
+          "records": 1
+        },
+        {
+          "country_code": "LVA",
+          "country_name": "Latvia",
+          "records": 0
+        },
+        {
+          "country_code": "LIE",
+          "country_name": "Liechtenstein",
+          "records": 0
+        },
+        {
+          "country_code": "LTU",
+          "country_name": "Lithuania",
+          "records": 0
+        },
+        {
+          "country_code": "LUX",
+          "country_name": "Luxembourg",
+          "records": 3
+        },
+        {
+          "country_code": "MLT",
+          "country_name": "Malta",
+          "records": 0
+        },
+        {
+          "country_code": "MDA",
+          "country_name": "Moldova",
+          "records": 0
+        },
+        {
+          "country_code": "MCO",
+          "country_name": "Monaco",
+          "records": 0
+        },
+        {
+          "country_code": "MNE",
+          "country_name": "Montenegro",
+          "records": 0
+        },
+        {
+          "country_code": "NLD",
+          "country_name": "Netherlands",
+          "records": 0
+        },
+        {
+          "country_code": "MKD",
+          "country_name": "North Macedonia",
+          "records": 0
+        },
+        {
+          "country_code": "NOR",
+          "country_name": "Norway",
+          "records": 0
+        },
+        {
+          "country_code": "POL",
+          "country_name": "Poland",
+          "records": 0
+        },
+        {
+          "country_code": "PRT",
+          "country_name": "Portugal",
+          "records": 6
+        },
+        {
+          "country_code": "ROU",
+          "country_name": "Romania",
+          "records": 0
+        },
+        {
+          "country_code": "SMR",
+          "country_name": "San Marino",
+          "records": 0
+        },
+        {
+          "country_code": "SRB",
+          "country_name": "Serbia",
+          "records": 0
+        },
+        {
+          "country_code": "SVK",
+          "country_name": "Slovakia",
+          "records": 0
+        },
+        {
+          "country_code": "SVN",
+          "country_name": "Slovenia",
+          "records": 0
+        },
+        {
+          "country_code": "ESP",
+          "country_name": "Spain",
+          "records": 3
+        },
+        {
+          "country_code": "SWE",
+          "country_name": "Sweden",
+          "records": 5
+        },
+        {
+          "country_code": "CHE",
+          "country_name": "Switzerland",
+          "records": 0
+        },
+        {
+          "country_code": "TUR",
+          "country_name": "Türkiye",
+          "records": 0
+        },
+        {
+          "country_code": "UKR",
+          "country_name": "Ukraine",
+          "records": 0
+        }
+      ],
+      "sources": [
+        {
+          "source_code": "boamp",
+          "source_name": "France — BOAMP",
+          "source_url": "https://www.boamp.fr/",
+          "records": 1
+        },
+        {
+          "source_code": "clira",
+          "source_name": "Sweden — Clira public announcements",
+          "source_url": "https://public.clira.io/upphandling",
+          "records": 2
+        },
+        {
+          "source_code": "dre",
+          "source_name": "Portugal — Diário da República",
+          "source_url": "https://diariodarepublica.pt/",
+          "records": 3
+        },
+        {
+          "source_code": "etenders",
+          "source_name": "Ireland — eTenders",
+          "source_url": "https://www.etenders.gov.ie/",
+          "records": 1
+        },
+        {
+          "source_code": "fts",
+          "source_name": "Find a Tender",
+          "source_url": "https://www.find-tender.service.gov.uk/",
+          "records": 1
+        },
+        {
+          "source_code": "kimdis",
+          "source_name": "Greece — KIMDIS",
+          "source_url": "https://cerpp.eprocurement.gov.gr/",
+          "records": 11
+        },
+        {
+          "source_code": "mercell-public",
+          "source_name": "Mercell — anonymous public notices",
+          "source_url": "https://app.mercell.com/search",
+          "records": 8
+        },
+        {
+          "source_code": "place",
+          "source_name": "France — PLACE",
+          "source_url": "https://www.marches-publics.gouv.fr/",
+          "records": 1
+        },
+        {
+          "source_code": "placsp",
+          "source_name": "Spain — PLACSP",
+          "source_url": "https://contrataciondelestado.es/",
+          "records": 1
+        },
+        {
+          "source_code": "pmp",
+          "source_name": "Luxembourg — public procurement portal",
+          "source_url": "https://pmp.b2g.etat.lu/",
+          "records": 1
+        },
+        {
+          "source_code": "ted",
+          "source_name": "TED — Ireland and Europe",
+          "source_url": "https://ted.europa.eu/",
+          "records": 14
+        }
+      ],
+      "deadline_buckets": [
+        {
+          "bucket": "up_to_3_days",
+          "records": 1
+        },
+        {
+          "bucket": "over_3_to_7_days",
+          "records": 8
+        },
+        {
+          "bucket": "over_7_to_30_days",
+          "records": 28
+        },
+        {
+          "bucket": "over_30_days",
+          "records": 7
+        }
+      ]
+    },
+    {
+      "sector": "refurbishment",
+      "name": "Refurbishment",
+      "page_path": "/tenders/refurbishment",
+      "cpv_prefix": "45453",
+      "scope": "Overhaul and refurbishment work recorded under CPV 45453. Other building repairs, roofing, new builds and maintenance notices recorded only under different classifications may not appear; this is not a list of all construction work.",
+      "active_future_deadline_records": 103,
+      "records_without_known_country": 0,
+      "countries": [
+        {
+          "country_code": "GBR",
+          "country_name": "United Kingdom",
+          "records": 5
+        },
+        {
+          "country_code": "IRL",
+          "country_name": "Ireland",
+          "records": 4
+        },
+        {
+          "country_code": "ALB",
+          "country_name": "Albania",
+          "records": 0
+        },
+        {
+          "country_code": "AND",
+          "country_name": "Andorra",
+          "records": 0
+        },
+        {
+          "country_code": "AUT",
+          "country_name": "Austria",
+          "records": 0
+        },
+        {
+          "country_code": "BEL",
+          "country_name": "Belgium",
+          "records": 0
+        },
+        {
+          "country_code": "BIH",
+          "country_name": "Bosnia and Herzegovina",
+          "records": 0
+        },
+        {
+          "country_code": "BGR",
+          "country_name": "Bulgaria",
+          "records": 1
+        },
+        {
+          "country_code": "HRV",
+          "country_name": "Croatia",
+          "records": 7
+        },
+        {
+          "country_code": "CYP",
+          "country_name": "Cyprus",
+          "records": 0
+        },
+        {
+          "country_code": "CZE",
+          "country_name": "Czechia",
+          "records": 7
+        },
+        {
+          "country_code": "DNK",
+          "country_name": "Denmark",
+          "records": 4
+        },
+        {
+          "country_code": "EST",
+          "country_name": "Estonia",
+          "records": 0
+        },
+        {
+          "country_code": "FIN",
+          "country_name": "Finland",
+          "records": 3
+        },
+        {
+          "country_code": "FRA",
+          "country_name": "France",
+          "records": 6
+        },
+        {
+          "country_code": "DEU",
+          "country_name": "Germany",
+          "records": 4
+        },
+        {
+          "country_code": "GRC",
+          "country_name": "Greece",
+          "records": 33
+        },
+        {
+          "country_code": "HUN",
+          "country_name": "Hungary",
+          "records": 0
+        },
+        {
+          "country_code": "ISL",
+          "country_name": "Iceland",
+          "records": 0
+        },
+        {
+          "country_code": "ITA",
+          "country_name": "Italy",
+          "records": 0
+        },
+        {
+          "country_code": "LVA",
+          "country_name": "Latvia",
+          "records": 1
+        },
+        {
+          "country_code": "LIE",
+          "country_name": "Liechtenstein",
+          "records": 0
+        },
+        {
+          "country_code": "LTU",
+          "country_name": "Lithuania",
+          "records": 1
+        },
+        {
+          "country_code": "LUX",
+          "country_name": "Luxembourg",
+          "records": 0
+        },
+        {
+          "country_code": "MLT",
+          "country_name": "Malta",
+          "records": 0
+        },
+        {
+          "country_code": "MDA",
+          "country_name": "Moldova",
+          "records": 0
+        },
+        {
+          "country_code": "MCO",
+          "country_name": "Monaco",
+          "records": 0
+        },
+        {
+          "country_code": "MNE",
+          "country_name": "Montenegro",
+          "records": 0
+        },
+        {
+          "country_code": "NLD",
+          "country_name": "Netherlands",
+          "records": 2
+        },
+        {
+          "country_code": "MKD",
+          "country_name": "North Macedonia",
+          "records": 0
+        },
+        {
+          "country_code": "NOR",
+          "country_name": "Norway",
+          "records": 0
+        },
+        {
+          "country_code": "POL",
+          "country_name": "Poland",
+          "records": 11
+        },
+        {
+          "country_code": "PRT",
+          "country_name": "Portugal",
+          "records": 3
+        },
+        {
+          "country_code": "ROU",
+          "country_name": "Romania",
+          "records": 7
+        },
+        {
+          "country_code": "SMR",
+          "country_name": "San Marino",
+          "records": 0
+        },
+        {
+          "country_code": "SRB",
+          "country_name": "Serbia",
+          "records": 0
+        },
+        {
+          "country_code": "SVK",
+          "country_name": "Slovakia",
+          "records": 0
+        },
+        {
+          "country_code": "SVN",
+          "country_name": "Slovenia",
+          "records": 0
+        },
+        {
+          "country_code": "ESP",
+          "country_name": "Spain",
+          "records": 0
+        },
+        {
+          "country_code": "SWE",
+          "country_name": "Sweden",
+          "records": 4
+        },
+        {
+          "country_code": "CHE",
+          "country_name": "Switzerland",
+          "records": 0
+        },
+        {
+          "country_code": "TUR",
+          "country_name": "Türkiye",
+          "records": 0
+        },
+        {
+          "country_code": "UKR",
+          "country_name": "Ukraine",
+          "records": 0
+        }
+      ],
+      "sources": [
+        {
+          "source_code": "boamp",
+          "source_name": "France — BOAMP",
+          "source_url": "https://www.boamp.fr/",
+          "records": 1
+        },
+        {
+          "source_code": "bzp",
+          "source_name": "Poland — BZP",
+          "source_url": "https://ezamowienia.gov.pl/",
+          "records": 11
+        },
+        {
+          "source_code": "clira",
+          "source_name": "Sweden — Clira public announcements",
+          "source_url": "https://public.clira.io/upphandling",
+          "records": 2
+        },
+        {
+          "source_code": "cvpis",
+          "source_name": "Lithuania — CVP IS",
+          "source_url": "https://viesiejipirkimai.lt/",
+          "records": 1
+        },
+        {
+          "source_code": "dre",
+          "source_name": "Portugal — Diário da República",
+          "source_url": "https://diariodarepublica.pt/",
+          "records": 1
+        },
+        {
+          "source_code": "eojn",
+          "source_name": "Croatia — EOJN",
+          "source_url": "https://eojn.hr/",
+          "records": 7
+        },
+        {
+          "source_code": "etenders",
+          "source_name": "Ireland — eTenders",
+          "source_url": "https://www.etenders.gov.ie/",
+          "records": 2
+        },
+        {
+          "source_code": "fts",
+          "source_name": "Find a Tender",
+          "source_url": "https://www.find-tender.service.gov.uk/",
+          "records": 4
+        },
+        {
+          "source_code": "hilma",
+          "source_name": "Finland — HILMA",
+          "source_url": "https://www.hankintailmoitukset.fi/",
+          "records": 2
+        },
+        {
+          "source_code": "intend-public",
+          "source_name": "UK — In-tend public buyer opportunities",
+          "source_url": "https://supplier.in-tend.co.uk/",
+          "records": 1
+        },
+        {
+          "source_code": "kimdis",
+          "source_name": "Greece — KIMDIS",
+          "source_url": "https://cerpp.eprocurement.gov.gr/",
+          "records": 33
+        },
+        {
+          "source_code": "mercell-public",
+          "source_name": "Mercell — anonymous public notices",
+          "source_url": "https://app.mercell.com/search",
+          "records": 8
+        },
+        {
+          "source_code": "nen",
+          "source_name": "Czechia — NEN",
+          "source_url": "https://nen.nipez.cz/",
+          "records": 2
+        },
+        {
+          "source_code": "seap",
+          "source_name": "Romania — SEAP",
+          "source_url": "https://www.e-licitatie.ro/",
+          "records": 5
+        },
+        {
+          "source_code": "ted",
+          "source_name": "TED — Ireland and Europe",
+          "source_url": "https://ted.europa.eu/",
+          "records": 15
+        },
+        {
+          "source_code": "tenderned",
+          "source_name": "Netherlands — TenderNed",
+          "source_url": "https://www.tenderned.nl/",
+          "records": 1
+        },
+        {
+          "source_code": "udbud",
+          "source_name": "Denmark — Udbud.dk",
+          "source_url": "https://udbud.dk/",
+          "records": 3
+        },
+        {
+          "source_code": "vvz",
+          "source_name": "Czechia — VVZ bulletin",
+          "source_url": "https://vvz.nipez.cz/",
+          "records": 4
+        }
+      ],
+      "deadline_buckets": [
+        {
+          "bucket": "up_to_3_days",
+          "records": 22
+        },
+        {
+          "bucket": "over_3_to_7_days",
+          "records": 17
+        },
+        {
+          "bucket": "over_7_to_30_days",
+          "records": 46
+        },
+        {
+          "bucket": "over_30_days",
+          "records": 18
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "running_application_commit": "2457ac17cca7747edf245c3ca3b8eee46a3cf54f",
+    "exporter_sha256": "55acde6d78d933f719b37ab78546a0c7c285096de5e79af761bf354cdb63202e",
+    "extraction": "SQLite read-only URI, query_only and one transaction; five public tender fields only."
+  }
+}

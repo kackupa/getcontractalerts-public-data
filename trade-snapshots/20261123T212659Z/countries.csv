@@ -1,0 +1,173 @@
+sector,country_code,country_name,records
+cleaning,GBR,United Kingdom,9
+cleaning,IRL,Ireland,0
+cleaning,ALB,Albania,0
+cleaning,AND,Andorra,0
+cleaning,AUT,Austria,2
+cleaning,BEL,Belgium,0
+cleaning,BIH,Bosnia and Herzegovina,0
+cleaning,BGR,Bulgaria,0
+cleaning,HRV,Croatia,3
+cleaning,CYP,Cyprus,0
+cleaning,CZE,Czechia,8
+cleaning,DNK,Denmark,4
+cleaning,EST,Estonia,0
+cleaning,FIN,Finland,0
+cleaning,FRA,France,13
+cleaning,DEU,Germany,26
+cleaning,GRC,Greece,69
+cleaning,HUN,Hungary,0
+cleaning,ISL,Iceland,0
+cleaning,ITA,Italy,0
+cleaning,LVA,Latvia,0
+cleaning,LIE,Liechtenstein,0
+cleaning,LTU,Lithuania,0
+cleaning,LUX,Luxembourg,0
+cleaning,MLT,Malta,1
+cleaning,MDA,Moldova,0
+cleaning,MCO,Monaco,0
+cleaning,MNE,Montenegro,0
+cleaning,NLD,Netherlands,4
+cleaning,MKD,North Macedonia,0
+cleaning,NOR,Norway,0
+cleaning,POL,Poland,22
+cleaning,PRT,Portugal,6
+cleaning,ROU,Romania,2
+cleaning,SMR,San Marino,0
+cleaning,SRB,Serbia,0
+cleaning,SVK,Slovakia,0
+cleaning,SVN,Slovenia,3
+cleaning,ESP,Spain,16
+cleaning,SWE,Sweden,11
+cleaning,CHE,Switzerland,0
+cleaning,TUR,Türkiye,0
+cleaning,UKR,Ukraine,0
+grounds,GBR,United Kingdom,14
+grounds,IRL,Ireland,0
+grounds,ALB,Albania,0
+grounds,AND,Andorra,0
+grounds,AUT,Austria,0
+grounds,BEL,Belgium,6
+grounds,BIH,Bosnia and Herzegovina,0
+grounds,BGR,Bulgaria,2
+grounds,HRV,Croatia,0
+grounds,CYP,Cyprus,1
+grounds,CZE,Czechia,3
+grounds,DNK,Denmark,8
+grounds,EST,Estonia,0
+grounds,FIN,Finland,2
+grounds,FRA,France,12
+grounds,DEU,Germany,5
+grounds,GRC,Greece,51
+grounds,HUN,Hungary,0
+grounds,ISL,Iceland,0
+grounds,ITA,Italy,0
+grounds,LVA,Latvia,0
+grounds,LIE,Liechtenstein,0
+grounds,LTU,Lithuania,1
+grounds,LUX,Luxembourg,1
+grounds,MLT,Malta,0
+grounds,MDA,Moldova,0
+grounds,MCO,Monaco,0
+grounds,MNE,Montenegro,0
+grounds,NLD,Netherlands,4
+grounds,MKD,North Macedonia,0
+grounds,NOR,Norway,0
+grounds,POL,Poland,6
+grounds,PRT,Portugal,4
+grounds,ROU,Romania,0
+grounds,SMR,San Marino,0
+grounds,SRB,Serbia,0
+grounds,SVK,Slovakia,0
+grounds,SVN,Slovenia,2
+grounds,ESP,Spain,6
+grounds,SWE,Sweden,9
+grounds,CHE,Switzerland,0
+grounds,TUR,Türkiye,0
+grounds,UKR,Ukraine,0
+it,GBR,United Kingdom,1
+it,IRL,Ireland,3
+it,ALB,Albania,0
+it,AND,Andorra,0
+it,AUT,Austria,0
+it,BEL,Belgium,2
+it,BIH,Bosnia and Herzegovina,0
+it,BGR,Bulgaria,0
+it,HRV,Croatia,0
+it,CYP,Cyprus,0
+it,CZE,Czechia,1
+it,DNK,Denmark,0
+it,EST,Estonia,0
+it,FIN,Finland,0
+it,FRA,France,4
+it,DEU,Germany,2
+it,GRC,Greece,12
+it,HUN,Hungary,0
+it,ISL,Iceland,1
+it,ITA,Italy,1
+it,LVA,Latvia,0
+it,LIE,Liechtenstein,0
+it,LTU,Lithuania,0
+it,LUX,Luxembourg,3
+it,MLT,Malta,0
+it,MDA,Moldova,0
+it,MCO,Monaco,0
+it,MNE,Montenegro,0
+it,NLD,Netherlands,0
+it,MKD,North Macedonia,0
+it,NOR,Norway,0
+it,POL,Poland,0
+it,PRT,Portugal,6
+it,ROU,Romania,0
+it,SMR,San Marino,0
+it,SRB,Serbia,0
+it,SVK,Slovakia,0
+it,SVN,Slovenia,0
+it,ESP,Spain,3
+it,SWE,Sweden,5
+it,CHE,Switzerland,0
+it,TUR,Türkiye,0
+it,UKR,Ukraine,0
+refurbishment,GBR,United Kingdom,5
+refurbishment,IRL,Ireland,4
+refurbishment,ALB,Albania,0
+refurbishment,AND,Andorra,0
+refurbishment,AUT,Austria,0
+refurbishment,BEL,Belgium,0
+refurbishment,BIH,Bosnia and Herzegovina,0
+refurbishment,BGR,Bulgaria,1
+refurbishment,HRV,Croatia,7
+refurbishment,CYP,Cyprus,0
+refurbishment,CZE,Czechia,7
+refurbishment,DNK,Denmark,4
+refurbishment,EST,Estonia,0
+refurbishment,FIN,Finland,3
+refurbishment,FRA,France,6
+refurbishment,DEU,Germany,4
+refurbishment,GRC,Greece,33
+refurbishment,HUN,Hungary,0
+refurbishment,ISL,Iceland,0
+refurbishment,ITA,Italy,0
+refurbishment,LVA,Latvia,1
+refurbishment,LIE,Liechtenstein,0
+refurbishment,LTU,Lithuania,1
+refurbishment,LUX,Luxembourg,0
+refurbishment,MLT,Malta,0
+refurbishment,MDA,Moldova,0
+refurbishment,MCO,Monaco,0
+refurbishment,MNE,Montenegro,0
+refurbishment,NLD,Netherlands,2
+refurbishment,MKD,North Macedonia,0
+refurbishment,NOR,Norway,0
+refurbishment,POL,Poland,11
+refurbishment,PRT,Portugal,3
+refurbishment,ROU,Romania,7
+refurbishment,SMR,San Marino,0
+refurbishment,SRB,Serbia,0
+refurbishment,SVK,Slovakia,0
+refurbishment,SVN,Slovenia,0
+refurbishment,ESP,Spain,0
+refurbishment,SWE,Sweden,4
+refurbishment,CHE,Switzerland,0
+refurbishment,TUR,Türkiye,0
+refurbishment,UKR,Ukraine,0

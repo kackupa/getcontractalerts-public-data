@@ -11,6 +11,8 @@ Published by [Contract Alerts](https://getcontractalerts.com/), an independent s
 
 ## European snapshot: 23 November 2026
 
+For a narrower view, see the [four-trade report](TRADE-INSIGHTS.md), captured separately at 21:26:59 UTC on 23 November. It breaks down cleaning, grounds maintenance, IT support and refurbishment by classification, stored country, source and time remaining. Its counts are dated imports, not the whole procurement market. [Download its JSON and CSVs](trade-snapshots/20261123T212659Z/).
+
 Captured **2026-11-23T20:20:47.180668+00:00 (UTC)** from a read-only database transaction. The seven-day first-import window starts at 2026-11-16T20:20:47.180668+00:00 and includes both endpoints.
 
 | Measure | Count |

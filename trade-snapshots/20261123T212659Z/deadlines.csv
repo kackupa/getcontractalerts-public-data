@@ -1,0 +1,17 @@
+sector,bucket,records
+cleaning,up_to_3_days,28
+cleaning,over_3_to_7_days,22
+cleaning,over_7_to_30_days,125
+cleaning,over_30_days,24
+grounds,up_to_3_days,18
+grounds,over_3_to_7_days,16
+grounds,over_7_to_30_days,71
+grounds,over_30_days,32
+it,up_to_3_days,1
+it,over_3_to_7_days,8
+it,over_7_to_30_days,28
+it,over_30_days,7
+refurbishment,up_to_3_days,22
+refurbishment,over_3_to_7_days,17
+refurbishment,over_7_to_30_days,46
+refurbishment,over_30_days,18
