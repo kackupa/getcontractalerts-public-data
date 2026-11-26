@@ -108,3 +108,9 @@ This is a static, dated snapshot. No schedule or automatic updates are promised.
 `SHA256SUMS.txt` records file checksums for this publication. To check the files and their internal count relationships with Python 3, run `python verify.py`. This checks consistency, not completeness against the government feeds.
 
 For corrections, open a repository issue with the snapshot timestamp and the field concerned, or contact [hello@getcontractalerts.com](mailto:hello@getcontractalerts.com). Avoid including private business details in public issues.
+
+## Cleaning tender search recipes
+
+Five official CPV classifications, keyword starting points and a business brief to adapt. [Open the practical search sheet](CLEANING-SEARCH-RECIPES.md), with official sources and the full council-cleaning guide.
+
+Published by the service operator. This educational resource does not alter the dated aggregate data or establish independent endorsement.
