@@ -7,6 +7,7 @@ Published by [Contract Alerts](https://getcontractalerts.com/), an independent s
 - [European tender-search guide and country-source directory](https://getcontractalerts.com/guides/find-european-tenders): TED, national sources, practical searches and free official-alert instructions.
 - [Choose a country and language](https://getcontractalerts.com/countries): all 43 supported markets, public sources and current notice samples.
 - [Supplier reading notes and free bid checklist](SUPPLIER-RESOURCES.md): browser and printable tools, plus cleaning, grounds-maintenance, IT-support and refurbishment starting points.
+- [IT-support tender search and review worksheet](IT-SUPPORT-TENDER-WORKSHEET.md): CPV searches, a copyable scope-and-pricing evidence record and a clarification question, with the full guide and relevant alert trial.
 - [One-page four-trade data factsheet (PDF)](factsheets/european-tender-trade-snapshot-2026-11-23.pdf): dated counts, remaining-time buckets, definitions and links to the saved CSV/JSON publication. Free to download and cite with attribution.
 - [Current source checks and coverage limits](https://getcontractalerts.com/coverage#current-imports): live aggregate figures after overnight imports.
 

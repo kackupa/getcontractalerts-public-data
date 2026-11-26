@@ -45,6 +45,7 @@ Start with the [European tender-search guide](https://getcontractalerts.com/guid
 
 - [Finding council cleaning contracts](https://getcontractalerts.com/guides/find-council-cleaning-contracts): official search services, useful service terms, lots and a first costing review.
 - [Grounds-maintenance tender checklist](https://getcontractalerts.com/guides/grounds-maintenance-tender-checklist): map sites, test the seasonal schedule and identify equipment and pricing assumptions before preparing a response.
+- [IT-support search and review worksheet](IT-SUPPORT-TENDER-WORKSHEET.md): CPV starting points, a copyable evidence table and a clarification question for support providers. The [full IT-support guide](https://getcontractalerts.com/guides/it-support-tender-checklist) explains the checks and matching limits.
 - [26 November dated trade summary](TRADE-SUMMARY-20261126.md): aggregate notice counts and response-time buckets with free CSV/JSON downloads. These counts are not a current list of invitations to bid.
 
 ## Current sector starting points
