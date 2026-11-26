@@ -10,6 +10,10 @@ Published by [Contract Alerts](https://getcontractalerts.com/), an independent s
 - [One-page four-trade data factsheet (PDF)](factsheets/european-tender-trade-snapshot-2026-11-23.pdf): dated counts, remaining-time buckets, definitions and links to the saved CSV/JSON publication. Free to download and cite with attribution.
 - [Current source checks and coverage limits](https://getcontractalerts.com/coverage#current-imports): live aggregate figures after overnight imports.
 
+## Latest four-trade summary: 26 November 2026
+
+The [26 November trade summary](TRADE-SUMMARY-20261126.md) publishes dated cleaning, grounds-maintenance, IT-support and refurbishment counts with response-time buckets and [aggregate CSV/JSON downloads](trade-summaries/20261126T163901Z/). It includes practical council-cleaning and grounds-maintenance review guides. These are imported records, not complete market totals or confirmed open opportunities. Earlier snapshots below retain their original dates and definitions.
+
 ## European snapshot: 23 November 2026
 
 For a narrower view, see the [four-trade report](TRADE-INSIGHTS.md), captured separately at 21:26:59 UTC on 23 November. It breaks down cleaning, grounds maintenance, IT support and refurbishment by classification, stored country, source and time remaining. Its counts are dated imports, not the whole procurement market. [Download its JSON and CSVs](trade-snapshots/20261123T212659Z/).

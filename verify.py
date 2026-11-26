@@ -95,3 +95,6 @@ for path in sorted((root / 'snapshots').glob('*/snapshot.json')):
     assert 0 <= data['future_deadline_records_without_known_region'] <= data['future_deadline_notice_records']
     assert 0 <= data['future_deadline_records_without_known_cpv_division'] <= data['future_deadline_notice_records']
     print('PASS:', path.parent.name, '- checksums, timestamps, CSV/JSON agreement, count relationships and code formats')
+
+from verify_recent import verify_recent
+verify_recent(root)

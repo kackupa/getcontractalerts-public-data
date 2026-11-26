@@ -1,6 +1,6 @@
 # Using notice counts to find work your business can deliver
 
-Published by Contract Alerts, updated 23 November 2026. These are first-party supplier resources, separate from
+Published by Contract Alerts, updated 26 November 2026. These are first-party supplier resources, separate from
 this repository's dated aggregate snapshots. Contract Alerts sells a tender-matching
 subscription; the official search instructions and checklist linked here are free to use without signing up.
 
@@ -40,6 +40,12 @@ Start with the [European tender-search guide](https://getcontractalerts.com/guid
 - [Printable bid or no-bid worksheet (PDF)](https://getcontractalerts.com/static/downloads/tender-bid-checklist.pdf):
   one A4 page with the same six questions, space for the notice/lot, official URL, deadline and evidence
   notes, and next-step guidance. Free to use and share unchanged; no account or electronic form needed.
+
+## Review a specific kind of contract
+
+- [Finding council cleaning contracts](https://getcontractalerts.com/guides/find-council-cleaning-contracts): official search services, useful service terms, lots and a first costing review.
+- [Grounds-maintenance tender checklist](https://getcontractalerts.com/guides/grounds-maintenance-tender-checklist): map sites, test the seasonal schedule and identify equipment and pricing assumptions before preparing a response.
+- [26 November dated trade summary](TRADE-SUMMARY-20261126.md): aggregate notice counts and response-time buckets with free CSV/JSON downloads. These counts are not a current list of invitations to bid.
 
 ## Current sector starting points
 

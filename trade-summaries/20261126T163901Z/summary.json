@@ -1,0 +1,576 @@
+{
+  "schema_version": "trade-summary-1.0",
+  "as_of_utc": "2026-11-26T16:39:01.214028+00:00",
+  "definition": "Stored active-status notices with a future response deadline and a disclosed CPV prefix, not unique procurements or complete market totals. Countries and trade groups can overlap. Official status was not revalidated by this aggregation.",
+  "provenance": {
+    "publication": "https://getcontractalerts.com/insights/tender-snapshot-2026-11-26",
+    "source_json": "https://getcontractalerts.com/static/data/tender-imports-2026-11-26.json",
+    "source_json_sha256": "60c9962ad8217db4ce542bd21b27c4bf8aaf566ec773840b124b1979c0fb51fc",
+    "transformation": "Retains aggregate sector counts, deadline buckets and country rows. Omits all notice examples."
+  },
+  "sectors": [
+    {
+      "path": "/tenders/cleaning",
+      "key": "cleaning",
+      "name": "Cleaning",
+      "cpv_prefix": "9091",
+      "records": 471,
+      "deadline_buckets": [
+        {
+          "label": "Within 3 days",
+          "records": 18
+        },
+        {
+          "label": "3 to 7 days",
+          "records": 82
+        },
+        {
+          "label": "7 to 14 days",
+          "records": 74
+        },
+        {
+          "label": "More than 14 days",
+          "records": 297
+        }
+      ],
+      "countries": [
+        {
+          "code": "GRC",
+          "country": "Greece",
+          "records": 90
+        },
+        {
+          "code": "POL",
+          "country": "Poland",
+          "records": 69
+        },
+        {
+          "code": "DEU",
+          "country": "Germany",
+          "records": 68
+        },
+        {
+          "code": "ESP",
+          "country": "Spain",
+          "records": 62
+        },
+        {
+          "code": "FRA",
+          "country": "France",
+          "records": 49
+        },
+        {
+          "code": "NLD",
+          "country": "Netherlands",
+          "records": 17
+        },
+        {
+          "code": "SWE",
+          "country": "Sweden",
+          "records": 16
+        },
+        {
+          "code": "PRT",
+          "country": "Portugal",
+          "records": 13
+        },
+        {
+          "code": "DNK",
+          "country": "Denmark",
+          "records": 12
+        },
+        {
+          "code": "BEL",
+          "country": "Belgium",
+          "records": 11
+        },
+        {
+          "code": "GBR",
+          "country": "United Kingdom",
+          "records": 11
+        },
+        {
+          "code": "CZE",
+          "country": "Czechia",
+          "records": 10
+        },
+        {
+          "code": "ITA",
+          "country": "Italy",
+          "records": 5
+        },
+        {
+          "code": "HUN",
+          "country": "Hungary",
+          "records": 4
+        },
+        {
+          "code": "ROU",
+          "country": "Romania",
+          "records": 4
+        },
+        {
+          "code": "SVN",
+          "country": "Slovenia",
+          "records": 4
+        },
+        {
+          "code": "HRV",
+          "country": "Croatia",
+          "records": 3
+        },
+        {
+          "code": "LVA",
+          "country": "Latvia",
+          "records": 3
+        },
+        {
+          "code": "MLT",
+          "country": "Malta",
+          "records": 3
+        },
+        {
+          "code": "AUT",
+          "country": "Austria",
+          "records": 2
+        },
+        {
+          "code": "BGR",
+          "country": "Bulgaria",
+          "records": 2
+        },
+        {
+          "code": "CHE",
+          "country": "Switzerland",
+          "records": 2
+        },
+        {
+          "code": "EST",
+          "country": "Estonia",
+          "records": 2
+        },
+        {
+          "code": "FIN",
+          "country": "Finland",
+          "records": 2
+        },
+        {
+          "code": "MKD",
+          "country": "North Macedonia",
+          "records": 2
+        },
+        {
+          "code": "NOR",
+          "country": "Norway",
+          "records": 2
+        },
+        {
+          "code": "SVK",
+          "country": "Slovakia",
+          "records": 2
+        },
+        {
+          "code": "CYP",
+          "country": "Cyprus",
+          "records": 1
+        }
+      ]
+    },
+    {
+      "path": "/tenders/grounds-maintenance",
+      "key": "grounds",
+      "name": "Grounds maintenance",
+      "cpv_prefix": "773",
+      "records": 307,
+      "deadline_buckets": [
+        {
+          "label": "Within 3 days",
+          "records": 14
+        },
+        {
+          "label": "3 to 7 days",
+          "records": 34
+        },
+        {
+          "label": "7 to 14 days",
+          "records": 35
+        },
+        {
+          "label": "More than 14 days",
+          "records": 224
+        }
+      ],
+      "countries": [
+        {
+          "code": "GRC",
+          "country": "Greece",
+          "records": 65
+        },
+        {
+          "code": "POL",
+          "country": "Poland",
+          "records": 46
+        },
+        {
+          "code": "FRA",
+          "country": "France",
+          "records": 42
+        },
+        {
+          "code": "DEU",
+          "country": "Germany",
+          "records": 24
+        },
+        {
+          "code": "BEL",
+          "country": "Belgium",
+          "records": 20
+        },
+        {
+          "code": "ESP",
+          "country": "Spain",
+          "records": 20
+        },
+        {
+          "code": "NLD",
+          "country": "Netherlands",
+          "records": 20
+        },
+        {
+          "code": "GBR",
+          "country": "United Kingdom",
+          "records": 15
+        },
+        {
+          "code": "DNK",
+          "country": "Denmark",
+          "records": 11
+        },
+        {
+          "code": "SWE",
+          "country": "Sweden",
+          "records": 11
+        },
+        {
+          "code": "CZE",
+          "country": "Czechia",
+          "records": 6
+        },
+        {
+          "code": "PRT",
+          "country": "Portugal",
+          "records": 5
+        },
+        {
+          "code": "SVN",
+          "country": "Slovenia",
+          "records": 5
+        },
+        {
+          "code": "BGR",
+          "country": "Bulgaria",
+          "records": 4
+        },
+        {
+          "code": "CYP",
+          "country": "Cyprus",
+          "records": 3
+        },
+        {
+          "code": "LUX",
+          "country": "Luxembourg",
+          "records": 3
+        },
+        {
+          "code": "FIN",
+          "country": "Finland",
+          "records": 2
+        },
+        {
+          "code": "HUN",
+          "country": "Hungary",
+          "records": 2
+        },
+        {
+          "code": "ITA",
+          "country": "Italy",
+          "records": 2
+        },
+        {
+          "code": "LTU",
+          "country": "Lithuania",
+          "records": 1
+        }
+      ]
+    },
+    {
+      "path": "/tenders/it-support",
+      "key": "it",
+      "name": "IT support",
+      "cpv_prefix": "725",
+      "records": 96,
+      "deadline_buckets": [
+        {
+          "label": "Within 3 days",
+          "records": 5
+        },
+        {
+          "label": "3 to 7 days",
+          "records": 14
+        },
+        {
+          "label": "7 to 14 days",
+          "records": 10
+        },
+        {
+          "label": "More than 14 days",
+          "records": 67
+        }
+      ],
+      "countries": [
+        {
+          "code": "GRC",
+          "country": "Greece",
+          "records": 22
+        },
+        {
+          "code": "ESP",
+          "country": "Spain",
+          "records": 13
+        },
+        {
+          "code": "DEU",
+          "country": "Germany",
+          "records": 12
+        },
+        {
+          "code": "FRA",
+          "country": "France",
+          "records": 11
+        },
+        {
+          "code": "PRT",
+          "country": "Portugal",
+          "records": 10
+        },
+        {
+          "code": "SWE",
+          "country": "Sweden",
+          "records": 8
+        },
+        {
+          "code": "IRL",
+          "country": "Ireland",
+          "records": 6
+        },
+        {
+          "code": "ITA",
+          "country": "Italy",
+          "records": 4
+        },
+        {
+          "code": "BEL",
+          "country": "Belgium",
+          "records": 3
+        },
+        {
+          "code": "LUX",
+          "country": "Luxembourg",
+          "records": 3
+        },
+        {
+          "code": "POL",
+          "country": "Poland",
+          "records": 3
+        },
+        {
+          "code": "CZE",
+          "country": "Czechia",
+          "records": 2
+        },
+        {
+          "code": "HUN",
+          "country": "Hungary",
+          "records": 2
+        },
+        {
+          "code": "DNK",
+          "country": "Denmark",
+          "records": 1
+        },
+        {
+          "code": "EST",
+          "country": "Estonia",
+          "records": 1
+        },
+        {
+          "code": "FIN",
+          "country": "Finland",
+          "records": 1
+        },
+        {
+          "code": "GBR",
+          "country": "United Kingdom",
+          "records": 1
+        },
+        {
+          "code": "HRV",
+          "country": "Croatia",
+          "records": 1
+        },
+        {
+          "code": "ISL",
+          "country": "Iceland",
+          "records": 1
+        },
+        {
+          "code": "LVA",
+          "country": "Latvia",
+          "records": 1
+        },
+        {
+          "code": "NOR",
+          "country": "Norway",
+          "records": 1
+        },
+        {
+          "code": "ROU",
+          "country": "Romania",
+          "records": 1
+        }
+      ]
+    },
+    {
+      "path": "/tenders/refurbishment",
+      "key": "refurbishment",
+      "name": "Refurbishment",
+      "cpv_prefix": "45453",
+      "records": 222,
+      "deadline_buckets": [
+        {
+          "label": "Within 3 days",
+          "records": 8
+        },
+        {
+          "label": "3 to 7 days",
+          "records": 35
+        },
+        {
+          "label": "7 to 14 days",
+          "records": 53
+        },
+        {
+          "label": "More than 14 days",
+          "records": 126
+        }
+      ],
+      "countries": [
+        {
+          "code": "POL",
+          "country": "Poland",
+          "records": 46
+        },
+        {
+          "code": "GRC",
+          "country": "Greece",
+          "records": 34
+        },
+        {
+          "code": "ROU",
+          "country": "Romania",
+          "records": 24
+        },
+        {
+          "code": "FRA",
+          "country": "France",
+          "records": 20
+        },
+        {
+          "code": "HRV",
+          "country": "Croatia",
+          "records": 11
+        },
+        {
+          "code": "GBR",
+          "country": "United Kingdom",
+          "records": 10
+        },
+        {
+          "code": "ESP",
+          "country": "Spain",
+          "records": 9
+        },
+        {
+          "code": "PRT",
+          "country": "Portugal",
+          "records": 9
+        },
+        {
+          "code": "SWE",
+          "country": "Sweden",
+          "records": 9
+        },
+        {
+          "code": "CZE",
+          "country": "Czechia",
+          "records": 8
+        },
+        {
+          "code": "DEU",
+          "country": "Germany",
+          "records": 8
+        },
+        {
+          "code": "IRL",
+          "country": "Ireland",
+          "records": 7
+        },
+        {
+          "code": "LTU",
+          "country": "Lithuania",
+          "records": 7
+        },
+        {
+          "code": "ITA",
+          "country": "Italy",
+          "records": 6
+        },
+        {
+          "code": "DNK",
+          "country": "Denmark",
+          "records": 4
+        },
+        {
+          "code": "FIN",
+          "country": "Finland",
+          "records": 3
+        },
+        {
+          "code": "LVA",
+          "country": "Latvia",
+          "records": 2
+        },
+        {
+          "code": "NLD",
+          "country": "Netherlands",
+          "records": 2
+        },
+        {
+          "code": "AUT",
+          "country": "Austria",
+          "records": 1
+        },
+        {
+          "code": "EST",
+          "country": "Estonia",
+          "records": 1
+        },
+        {
+          "code": "HUN",
+          "country": "Hungary",
+          "records": 1
+        }
+      ]
+    }
+  ]
+}
