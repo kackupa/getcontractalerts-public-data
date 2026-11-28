@@ -2,7 +2,11 @@
 
 Published by [Contract Alerts](https://getcontractalerts.com/), an independent service matching public tenders to small businesses across Europe. Find sources, use free supplier resources and inspect dated aggregate counts from our imports. These are first-party resources, not an official publication, a complete procurement dataset or evidence of contracts won.
 
-## For a small cleaning business
+## Choose your country and business type
+
+Use the [country and business starting-point directory](COUNTRY-AND-SECTOR-STARTING-POINTS.md) for all 43 configured countries and ten service groups: cleaning, grounds maintenance, IT support, refurbishment, catering, security, waste, building maintenance, electrical installation and training. It links each country to its actual source route and each business type to the existing practical page. Local coverage and requirements differ.
+
+### Example: a small cleaning business
 
 Use the [council-cleaning search guide](https://getcontractalerts.com/guides/find-council-cleaning-contracts), review [cleaning notice records](https://getcontractalerts.com/tenders/cleaning), then use the [free bid or no-bid checklist](https://getcontractalerts.com/tools/tender-bid-checklist). The [supplier resource notes](SUPPLIER-RESOURCES.md#try-a-week-of-cleaning-tender-research) include a short way to assess whether the routine is useful. Confirm the buyer's current documents before acting.
 

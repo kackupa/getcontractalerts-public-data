@@ -1,0 +1,86 @@
+# Find public tenders by country and business type
+
+Published 28 November 2026 by Get Contract Alerts, the operator of the linked matching service. Use this free directory to choose your delivery country, follow its public sources and assess notices for the work your business provides. No account is needed to use these guides.
+
+## Choose the work you deliver
+
+Each sector link opens an existing Europe-wide starting page. It is not automatically filtered to a selected country. Start with the country source route below, then compare the actual notice location and work package with your capabilities.
+
+| Business or service | First details to establish |
+| --- | --- |
+| [Cleaning](https://getcontractalerts.com/tenders/cleaning) | Sites, working hours, visit frequencies and staffing assumptions. |
+| [Grounds maintenance](https://getcontractalerts.com/tenders/grounds-maintenance) | Travel between sites, seasonal workload, machinery and waste handling. |
+| [IT support](https://getcontractalerts.com/tenders/it-support) | Service hours, systems, on-site attendance and handover responsibilities. |
+| [Refurbishment](https://getcontractalerts.com/tenders/refurbishment) | Work packages, surveys, occupied sites and delivery programme. |
+| [Catering](https://getcontractalerts.com/tenders/catering) | Kitchens, meal volumes, service times and pricing basis. |
+| [Security services](https://getcontractalerts.com/tenders/security-services) | Sites, shift patterns, relief cover and buyer-stated staff requirements. |
+| [Waste services](https://getcontractalerts.com/tenders/waste-services) | Waste streams, collection points, routes and receiving facilities. |
+| [Building maintenance](https://getcontractalerts.com/tenders/building-maintenance) | Planned and reactive work, trade mix, call-out targets and site lists. |
+| [Electrical installation](https://getcontractalerts.com/tenders/electrical-installation) | Installation scope, shutdowns, site access and other trades. |
+| [Training](https://getcontractalerts.com/tenders/training) | Courses, learners, trainer evidence, delivery location and format. |
+
+These ten groups are starting points. Other suppliers can research public contracts too; a broad classification does not establish suitability. Use the buyer's actual scope, requirements and submission instructions.
+
+## Choose your delivery country
+
+The links below open the existing country pages. Their source lists and example notices are the starting point for local research. The national-feed names below reflect the coverage response checked on 28 November; configured sources and actual successful imports can change. A national feed does not include every local or buyer portal.
+
+| Country | National feed routes listed at the check |
+| --- | --- |
+| [Albania](https://getcontractalerts.com/countries/albania) | Supported cross-border sources; no directly imported national source listed. |
+| [Andorra](https://getcontractalerts.com/countries/andorra) | Supported cross-border sources; no directly imported national source listed. |
+| [Austria](https://getcontractalerts.com/countries/austria) | [Austria: USP](https://ausschreibungen.usp.gv.at/) |
+| [Belgium](https://getcontractalerts.com/countries/belgium) | [Belgium: BOSA bulletin](https://www.publicprocurement.be/bda) |
+| [Bosnia and Herzegovina](https://getcontractalerts.com/countries/bosnia-and-herzegovina) | Supported cross-border sources; no directly imported national source listed. |
+| [Bulgaria](https://getcontractalerts.com/countries/bulgaria) | [Bulgaria: CAIS EOP](https://app.eop.bg/) |
+| [Croatia](https://getcontractalerts.com/countries/croatia) | [Croatia: EOJN](https://eojn.hr/) |
+| [Cyprus](https://getcontractalerts.com/countries/cyprus) | [Cyprus: eProcurement](https://www.eprocurement.gov.cy/) |
+| [Czechia](https://getcontractalerts.com/countries/czechia) | [Czechia: NEN](https://nen.nipez.cz/); [Czechia: VVZ bulletin](https://vvz.nipez.cz/) |
+| [Denmark](https://getcontractalerts.com/countries/denmark) | [Denmark: Udbud.dk](https://udbud.dk/) |
+| [Estonia](https://getcontractalerts.com/countries/estonia) | [Estonia: RHR](https://riigihanked.riik.ee/) |
+| [Finland](https://getcontractalerts.com/countries/finland) | [Finland: HILMA](https://www.hankintailmoitukset.fi/) |
+| [France](https://getcontractalerts.com/countries/france) | [France: BOAMP](https://www.boamp.fr/); [France: PLACE](https://www.marches-publics.gouv.fr/) |
+| [Germany](https://getcontractalerts.com/countries/germany) | [Germany: Bekanntmachungsservice](https://oeffentlichevergabe.de/ui/) |
+| [Greece](https://getcontractalerts.com/countries/greece) | [Greece: KIMDIS](https://cerpp.eprocurement.gov.gr/) |
+| [Hungary](https://getcontractalerts.com/countries/hungary) | [Hungary: EKR](https://ekr.gov.hu/) |
+| [Iceland](https://getcontractalerts.com/countries/iceland) | Supported cross-border sources; no directly imported national source listed. |
+| [Ireland](https://getcontractalerts.com/countries/ireland) | [Ireland: eTenders](https://www.etenders.gov.ie/) |
+| [Italy](https://getcontractalerts.com/countries/italy) | [Italy: ANAC legal notices](https://pubblicitalegale.anticorruzione.it/) |
+| [Latvia](https://getcontractalerts.com/countries/latvia) | [Latvia: IUB](https://www.iub.gov.lv/) |
+| [Liechtenstein](https://getcontractalerts.com/countries/liechtenstein) | Supported cross-border sources; no directly imported national source listed. |
+| [Lithuania](https://getcontractalerts.com/countries/lithuania) | [Lithuania: CVP IS](https://viesiejipirkimai.lt/) |
+| [Luxembourg](https://getcontractalerts.com/countries/luxembourg) | [Luxembourg: public procurement portal](https://pmp.b2g.etat.lu/) |
+| [Malta](https://getcontractalerts.com/countries/malta) | [Malta: ePPS](https://www.etenders.gov.mt/) |
+| [Moldova](https://getcontractalerts.com/countries/moldova) | Supported cross-border sources; no directly imported national source listed. |
+| [Monaco](https://getcontractalerts.com/countries/monaco) | Supported cross-border sources; no directly imported national source listed. |
+| [Montenegro](https://getcontractalerts.com/countries/montenegro) | Supported cross-border sources; no directly imported national source listed. |
+| [Netherlands](https://getcontractalerts.com/countries/netherlands) | [Netherlands: TenderNed](https://www.tenderned.nl/) |
+| [North Macedonia](https://getcontractalerts.com/countries/north-macedonia) | Supported cross-border sources; no directly imported national source listed. |
+| [Norway](https://getcontractalerts.com/countries/norway) | Supported cross-border sources; no directly imported national source listed. |
+| [Poland](https://getcontractalerts.com/countries/poland) | [Poland: BZP](https://ezamowienia.gov.pl/) |
+| [Portugal](https://getcontractalerts.com/countries/portugal) | [Portugal: Diário da República](https://diariodarepublica.pt/) |
+| [Romania](https://getcontractalerts.com/countries/romania) | [Romania: SEAP](https://www.e-licitatie.ro/) |
+| [San Marino](https://getcontractalerts.com/countries/san-marino) | Supported cross-border sources; no directly imported national source listed. |
+| [Serbia](https://getcontractalerts.com/countries/serbia) | Supported cross-border sources; no directly imported national source listed. |
+| [Slovakia](https://getcontractalerts.com/countries/slovakia) | [Slovakia: ÚVO bulletin](https://www.uvo.gov.sk/vestnik-a-registre/vestnik) |
+| [Slovenia](https://getcontractalerts.com/countries/slovenia) | [Slovenia: public procurement bulletin](https://www.enarocanje.si/) |
+| [Spain](https://getcontractalerts.com/countries/spain) | [Spain: PLACSP](https://contrataciondelestado.es/); [Spain: aggregated regional notices](https://contrataciondelestado.es/); [Spain: minor contracts](https://contrataciondelestado.es/) |
+| [Sweden](https://getcontractalerts.com/countries/sweden) | [Sweden: Kommers Annons](https://www.kommersannons.se/Notices/TenderNotices); [Sweden: Clira public announcements](https://public.clira.io/upphandling); [Sweden: Konstpool art commissions](https://konstpool.se/sv/calls); [Mercell: anonymous public notices](https://app.mercell.com/search) |
+| [Switzerland](https://getcontractalerts.com/countries/switzerland) | Supported cross-border sources; no directly imported national source listed. |
+| [Türkiye](https://getcontractalerts.com/countries/turkiye) | Supported cross-border sources; no directly imported national source listed. |
+| [Ukraine](https://getcontractalerts.com/countries/ukraine) | Supported cross-border sources; no directly imported national source listed. |
+| [United Kingdom](https://getcontractalerts.com/countries/united-kingdom) | [Find a Tender](https://www.find-tender.service.gov.uk/); [Contracts Finder](https://www.contractsfinder.service.gov.uk/); [Scotland: Public Contracts Scotland](https://www.publiccontractsscotland.gov.uk/); [Wales: Sell2Wales](https://www.sell2wales.gov.wales/); [Northern Ireland: eTendersNI](https://etendersni.gov.uk/); [Northern Ireland: eSourcing NI](https://e-sourcingni.ukp.app.jaggaer.com/); [UK: Defence Sourcing Portal](https://contracts.mod.uk/) |
+
+Countries without a listed national feed can still have notices through supported cross-border sources. An empty list or no current example does not establish that no public work exists. Use the [current coverage page](https://getcontractalerts.com/coverage) and relevant official portal before acting.
+
+## Read country-specific documents
+
+Use the vocabulary in the local notice, follow its linked documents and check which response stage is open. Delivery sites can differ from the buyer's address. Keep the actual notice language and submission route beside your research note; do not apply another country's requirements by assumption.
+
+Existing local research guides include [France](https://getcontractalerts.com/guides/trouver-marches-publics-france), [Germany](https://getcontractalerts.com/guides/oeffentliche-ausschreibungen-deutschland) and [Poland](https://getcontractalerts.com/guides/jak-znalezc-przetargi-polska). The [European search guide](https://getcontractalerts.com/guides/find-european-tenders) explains the wider source route.
+
+## Decide what is worth your time
+
+Use the [free bid or no-bid checklist](https://getcontractalerts.com/tools/tender-bid-checklist) to record scope, location, time remaining and the next document or clarification needed. Our [supplier resources](SUPPLIER-RESOURCES.md) explain a short evaluation routine and link to a blank research log. Read the [free official alerts versus paid matching comparison](https://getcontractalerts.com/guides/free-tender-alerts-vs-paid-matching) before deciding whether a subscription adds useful sorting.
+
+This directory is first-party navigation to resources and public sources. It is not a new set of country-sector landing pages, a claim of complete coverage, a verified opportunity list or an independent recommendation. Source rights and attribution remain described in [LICENSE.md](LICENSE.md).
