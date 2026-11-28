@@ -2,6 +2,62 @@
 
 Published 28 November 2026 by Get Contract Alerts, the operator of the linked matching service. Use this free directory to choose your delivery country, follow its public sources and assess notices for the work your business provides. No account is needed to use these guides.
 
+## Reviewed country and sector guides
+
+[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 22 guides, published and checked on 28 November 2026, use individual country-specific copy in eight page languages. Each explains a local official search and the particular service to review. Current examples, when available, use the stated country, CPV classification and deadline filters. They are not complete market listings or confirmations of suitability.
+
+### Austria
+
+- [IT-Support-Ausschreibungen in Österreich: von der USP-Suche zum passenden Auftrag](https://getcontractalerts.com/countries/austria/tenders/it-support)
+- [Elektro-Ausschreibungen in Österreich: Leistungen und Baustellen vergleichen](https://getcontractalerts.com/countries/austria/tenders/electrical-installation)
+
+### France
+
+- [Marchés de rénovation en France : repérer les lots adaptés à votre entreprise](https://getcontractalerts.com/countries/france/tenders/refurbishment)
+- [Marchés de collecte des déchets en France : vérifier les flux et les tournées](https://getcontractalerts.com/countries/france/tenders/waste-services)
+- [Maintenance des bâtiments en France : comprendre les prestations et les lots](https://getcontractalerts.com/countries/france/tenders/building-maintenance)
+
+### Germany
+
+- [IT-Support-Ausschreibungen in Deutschland: Einsatzorte und Serviceumfang prüfen](https://getcontractalerts.com/countries/germany/tenders/it-support)
+- [Ausschreibungen für Elektroinstallation in Deutschland: das passende Leistungspaket finden](https://getcontractalerts.com/countries/germany/tenders/electrical-installation)
+
+### Ireland
+
+- [Training tender alerts in Ireland: find courses your team can deliver](https://getcontractalerts.com/countries/ireland/tenders/training)
+- [Catering tender alerts in Ireland: compare kitchens, meals and delivery sites](https://getcontractalerts.com/countries/ireland/tenders/catering)
+- [IT-support tender alerts in Ireland: compare service hours and delivery locations](https://getcontractalerts.com/countries/ireland/tenders/it-support)
+
+### Italy
+
+- [Gare di sicurezza in Italia: confronta vigilanza, portierato e controllo accessi](https://getcontractalerts.com/countries/italy/tenders/security-services)
+- [Gare di ristrutturazione in Italia: passa dall’avviso al lavoro concreto](https://getcontractalerts.com/countries/italy/tenders/refurbishment)
+
+### Netherlands
+
+- [Aanbestedingen voor groenonderhoud in Nederland: beoordeel locaties en seizoenswerk](https://getcontractalerts.com/countries/netherlands/tenders/grounds-maintenance)
+- [Afvalaanbestedingen in Nederland: onderscheid inzameling, vervoer en verwerking](https://getcontractalerts.com/countries/netherlands/tenders/waste-services)
+
+### Poland
+
+- [Przetargi na sprzątanie w Polsce: sprawdź obiekty i harmonogram usług](https://getcontractalerts.com/countries/poland/tenders/cleaning)
+- [Utrzymanie terenów zielonych w Polsce: wybierz zakres i lokalizacje prac](https://getcontractalerts.com/countries/poland/tenders/grounds-maintenance)
+
+### Portugal
+
+- [Concursos de limpeza em Portugal: encontre os anúncios e avalie os edifícios](https://getcontractalerts.com/countries/portugal/tenders/cleaning)
+- [Concursos de formação em Portugal: compare cursos, participantes e entrega](https://getcontractalerts.com/countries/portugal/tenders/training)
+
+### Spain
+
+- [Licitaciones de catering en España: compara centros, comidas y condiciones](https://getcontractalerts.com/countries/spain/tenders/catering)
+- [Licitaciones de instalaciones eléctricas en España: encuentra el lote adecuado](https://getcontractalerts.com/countries/spain/tenders/electrical-installation)
+
+### United Kingdom
+
+- [UK building-maintenance tender alerts: find the right work package](https://getcontractalerts.com/countries/united-kingdom/tenders/building-maintenance)
+- [UK security tender alerts: compare sites, shifts and service scope](https://getcontractalerts.com/countries/united-kingdom/tenders/security-services)
+
 ## Choose the work you deliver
 
 Each sector link opens an existing Europe-wide starting page. It is not automatically filtered to a selected country. Start with the country source route below, then compare the actual notice location and work package with your capabilities.
