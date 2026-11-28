@@ -4,7 +4,7 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 ## Reviewed country and sector guides
 
-[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 32 guides, published and checked on 28 November 2026, use individual country-specific copy in 12 article languages. Each explains a local public search and the particular service to review. Current examples, when available, use the stated country, CPV classification and deadline filters. They are not complete market listings or confirmations of suitability. The Czech, Danish, Swedish and Romanian guides explain which product links open in English; article languages do not imply additional account or email languages.
+[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 42 guides, published and checked on 28 November 2026, use individual country-specific copy in 16 article languages across 20 countries. Each explains a local public search and the particular service to review. Examples, when available, use the stated country, CPV and deadline filters; they are not complete market listings or suitability confirmations. Article-only languages disclose English product destinations and do not imply additional account/email languages. Norwegian and Swiss guides distinguish official national search routes from the product’s supported cross-border imports.
 
 ### Austria
 
@@ -26,6 +26,11 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 - [Cateringudbud i Danmark: skeln mellem køkkendrift, madproduktion og levering](https://getcontractalerts.com/countries/denmark/tenders/catering)
 - [Grøn pleje i Danmark: vurder arealer, sæsoner og køretid før tilbuddet](https://getcontractalerts.com/countries/denmark/tenders/grounds-maintenance)
 
+### Finland
+
+- [Vihertyöt Suomessa: vertaa alueita, kausia ja työreittejä](https://getcontractalerts.com/countries/finland/tenders/grounds-maintenance)
+- [Ruokapalvelut Suomessa: erottele keittiötyö, ateriat ja kuljetus](https://getcontractalerts.com/countries/finland/tenders/catering)
+
 ### France
 
 - [Marchés de rénovation en France : repérer les lots adaptés à votre entreprise](https://getcontractalerts.com/countries/france/tenders/refurbishment)
@@ -36,6 +41,16 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 - [IT-Support-Ausschreibungen in Deutschland: Einsatzorte und Serviceumfang prüfen](https://getcontractalerts.com/countries/germany/tenders/it-support)
 - [Ausschreibungen für Elektroinstallation in Deutschland: das passende Leistungspaket finden](https://getcontractalerts.com/countries/germany/tenders/electrical-installation)
+
+### Greece
+
+- [Συντήρηση κτιρίων στην Ελλάδα: ξεκινήστε από τα συστήματα και τα σημεία εργασίας](https://getcontractalerts.com/countries/greece/tenders/building-maintenance)
+- [Ανακαινίσεις στην Ελλάδα: από τη διακήρυξη στο συγκεκριμένο πακέτο εργασιών](https://getcontractalerts.com/countries/greece/tenders/refurbishment)
+
+### Hungary
+
+- [Őrzés-védelem Magyarországon: helyszínekből és szolgálati órákból számoljon](https://getcontractalerts.com/countries/hungary/tenders/security-services)
+- [Hulladékos feladatok Magyarországon: kövesse az anyag útját a kalkulációban](https://getcontractalerts.com/countries/hungary/tenders/waste-services)
 
 ### Ireland
 
@@ -52,6 +67,11 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 - [Aanbestedingen voor groenonderhoud in Nederland: beoordeel locaties en seizoenswerk](https://getcontractalerts.com/countries/netherlands/tenders/grounds-maintenance)
 - [Afvalaanbestedingen in Nederland: onderscheid inzameling, vervoer en verwerking](https://getcontractalerts.com/countries/netherlands/tenders/waste-services)
+
+### Norway
+
+- [IT-support i Norge: fra Doffin til systemer, steder og responstid](https://getcontractalerts.com/countries/norway/tenders/it-support)
+- [Kursoppdrag i Norge: vurder målgruppe, undervisningsform og bestillinger](https://getcontractalerts.com/countries/norway/tenders/training)
 
 ### Poland
 
@@ -77,6 +97,11 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 - [Upphandling av utbildning i Sverige: jämför ämne, deltagare och leveransform](https://getcontractalerts.com/countries/sweden/tenders/training)
 - [Avfallsupphandlingar i Sverige: skilj insamling, transport och behandling åt](https://getcontractalerts.com/countries/sweden/tenders/waste-services)
+
+### Switzerland
+
+- [Nettoyage en Suisse : partir des sites et des lots publiés sur simap](https://getcontractalerts.com/countries/switzerland/tenders/cleaning)
+- [Elektroarbeiten in der Schweiz: vom simap-Projekt zum kalkulierbaren Los](https://getcontractalerts.com/countries/switzerland/tenders/electrical-installation)
 
 ### United Kingdom
 
