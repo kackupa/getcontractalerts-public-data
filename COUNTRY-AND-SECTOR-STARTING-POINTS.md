@@ -4,7 +4,7 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 ## Reviewed country and sector guides
 
-[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 42 guides, published and checked on 28 November 2026, use individual country-specific copy in 16 article languages across 20 countries. Each explains a local public search and the particular service to review. Examples, when available, use the stated country, CPV and deadline filters; they are not complete market listings or suitability confirmations. Article-only languages disclose English product destinations and do not imply additional account/email languages. Norwegian and Swiss guides distinguish official national search routes from the product’s supported cross-border imports.
+[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 52 guides, published and checked on 28 November 2026, use individual country-specific copy in 21 article languages across 25 countries. Each explains a local public search and the particular service to review. Examples, when available, use the stated country, CPV and deadline filters; they are not complete market listings or suitability confirmations. Article-only languages disclose English product destinations and do not imply additional account/email languages. Norwegian and Swiss guides distinguish official national search routes from the product’s supported cross-border imports.
 
 ### Austria
 
@@ -25,6 +25,11 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 - [Cateringudbud i Danmark: skeln mellem køkkendrift, madproduktion og levering](https://getcontractalerts.com/countries/denmark/tenders/catering)
 - [Grøn pleje i Danmark: vurder arealer, sæsoner og køretid før tilbuddet](https://getcontractalerts.com/countries/denmark/tenders/grounds-maintenance)
+
+### Estonia
+
+- [IT-tugi Eestis: otsige teenust, mitte ainult seadmeid](https://getcontractalerts.com/countries/estonia/tenders/it-support)
+- [Koolitushanked Eestis: võrrelge õpiväljundeid, sihtrühma ja ajakava](https://getcontractalerts.com/countries/estonia/tenders/training)
 
 ### Finland
 
@@ -63,6 +68,16 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 - [Gare di sicurezza in Italia: confronta vigilanza, portierato e controllo accessi](https://getcontractalerts.com/countries/italy/tenders/security-services)
 - [Gare di ristrutturazione in Italia: passa dall’avviso al lavoro concreto](https://getcontractalerts.com/countries/italy/tenders/refurbishment)
 
+### Latvia
+
+- [Atkritumu iepirkumi Latvijā: izsekojiet savākšanu, pārvadāšanu un nodošanu](https://getcontractalerts.com/countries/latvia/tenders/waste-services)
+- [Ēku iekārtu apkope Latvijā: pārbaudiet sistēmas, vizītes un izsaukumus](https://getcontractalerts.com/countries/latvia/tenders/building-maintenance)
+
+### Lithuania
+
+- [Želdynų priežiūra Lietuvoje: pradėkite nuo plotų, darbų ir sezonų](https://getcontractalerts.com/countries/lithuania/tenders/grounds-maintenance)
+- [Valymo pirkimai Lietuvoje: patikrinkite patalpas ir paslaugų grafiką](https://getcontractalerts.com/countries/lithuania/tenders/cleaning)
+
 ### Netherlands
 
 - [Aanbestedingen voor groenonderhoud in Nederland: beoordeel locaties en seizoenswerk](https://getcontractalerts.com/countries/netherlands/tenders/grounds-maintenance)
@@ -87,6 +102,16 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 - [Servicii de pază în România: compară posturile, turele și responsabilitățile](https://getcontractalerts.com/countries/romania/tenders/security-services)
 - [Renovări în România: treci de la titlul anunțului la cantități și șantier](https://getcontractalerts.com/countries/romania/tenders/refurbishment)
+
+### Slovakia
+
+- [Stravovanie na Slovensku: porovnajte kuchyňu, jedlá a miesta dodania](https://getcontractalerts.com/countries/slovakia/tenders/catering)
+- [Obnova budov na Slovensku: od oznámenia k výkazu výmer a pracovisku](https://getcontractalerts.com/countries/slovakia/tenders/refurbishment)
+
+### Slovenia
+
+- [Električna dela v Sloveniji: od objave do popisa in izvedbenega sklopa](https://getcontractalerts.com/countries/slovenia/tenders/electrical-installation)
+- [Varovanje v Sloveniji: primerjajte objekte, izmene in obseg storitve](https://getcontractalerts.com/countries/slovenia/tenders/security-services)
 
 ### Spain
 
