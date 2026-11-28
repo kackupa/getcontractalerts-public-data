@@ -82,3 +82,19 @@ It is not an independent review, a promise of complete coverage or evidence of c
 
 The public sector data and its reuse attribution are described in [LICENSE.md](LICENSE.md).
 Nothing in these resources implies endorsement by a buyer or government department.
+
+## Try a week of cleaning tender research
+
+Added 28 November 2026. Choose a service and delivery area you can cover, then use the [council-cleaning search instructions](https://getcontractalerts.com/guides/find-council-cleaning-contracts). Keep the date range and search terms beside each source. Review scope, sites, lots, deadline and the buyer's documents before counting a record as worth investigating.
+
+| Record for the week | What it tells you |
+| --- | --- |
+| Minutes spent searching and reviewing | The work the routine actually takes. |
+| Distinct notices reviewed | Count the same procedure once when comparing sources. |
+| Notices worth investigating | State the reason: scope, location and a feasible next step. |
+| Documents opened or questions to clarify | Separate research progress from a submitted bid. |
+| Actual bids and outcomes | Record only what happened; leave future outcomes unknown. |
+
+[Download a blank weekly research log](https://getgrowthalerts.com/resources/opportunity-research-log.csv). It has no notice or customer records; keep your completed copy private. A quiet week does not establish that a market has no work. Compare free saved searches and business matching on the same brief before deciding which routine helps.
+
+For matched opportunities, [review cleaning alerts](https://getcontractalerts.com/tenders/cleaning?utm_source=github&utm_medium=owned_resource&utm_campaign=seo_learning_20261128&utm_content=cleaning_research_week#signup). This tagged link uses the service's existing source attribution. No account is required for the free resources. If your task is researching new businesses or projects rather than bidding, [compare the different opportunity sources](https://getgrowthalerts.com/guides/choose-business-opportunity-alerts).

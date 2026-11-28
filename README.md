@@ -2,6 +2,10 @@
 
 Published by [Contract Alerts](https://getcontractalerts.com/), an independent service matching public tenders to small businesses across Europe. Find sources, use free supplier resources and inspect dated aggregate counts from our imports. These are first-party resources, not an official publication, a complete procurement dataset or evidence of contracts won.
 
+## For a small cleaning business
+
+Use the [council-cleaning search guide](https://getcontractalerts.com/guides/find-council-cleaning-contracts), review [cleaning notice records](https://getcontractalerts.com/tenders/cleaning), then use the [free bid or no-bid checklist](https://getcontractalerts.com/tools/tender-bid-checklist). The [supplier resource notes](SUPPLIER-RESOURCES.md#try-a-week-of-cleaning-tender-research) include a short way to assess whether the routine is useful. Confirm the buyer's current documents before acting.
+
 ## Find work across Europe
 
 - [European tender-search guide and country-source directory](https://getcontractalerts.com/guides/find-european-tenders): TED, national sources, practical searches and free official-alert instructions.
