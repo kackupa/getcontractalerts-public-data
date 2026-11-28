@@ -4,12 +4,27 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 
 ## Reviewed country and sector guides
 
-[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 22 guides, published and checked on 28 November 2026, use individual country-specific copy in eight page languages. Each explains a local official search and the particular service to review. Current examples, when available, use the stated country, CPV classification and deadline filters. They are not complete market listings or confirmations of suitability.
+[Browse the country and business guide directory](https://getcontractalerts.com/guides/countries-and-sectors). These 32 guides, published and checked on 28 November 2026, use individual country-specific copy in 12 article languages. Each explains a local public search and the particular service to review. Current examples, when available, use the stated country, CPV classification and deadline filters. They are not complete market listings or confirmations of suitability. The Czech, Danish, Swedish and Romanian guides explain which product links open in English; article languages do not imply additional account or email languages.
 
 ### Austria
 
 - [IT-Support-Ausschreibungen in Österreich: von der USP-Suche zum passenden Auftrag](https://getcontractalerts.com/countries/austria/tenders/it-support)
 - [Elektro-Ausschreibungen in Österreich: Leistungen und Baustellen vergleichen](https://getcontractalerts.com/countries/austria/tenders/electrical-installation)
+
+### Belgium
+
+- [Nettoyage en Belgique : comparer les bâtiments, les lots et les horaires](https://getcontractalerts.com/countries/belgium/tenders/cleaning)
+- [Elektrische overheidsopdrachten in België: lees het bestek per werkpakket](https://getcontractalerts.com/countries/belgium/tenders/electrical-installation)
+
+### Czechia
+
+- [IT podpora v Česku: od oznámení ke skutečnému rozsahu služby](https://getcontractalerts.com/countries/czechia/tenders/it-support)
+- [Údržba budov v Česku: oddělte technický servis od stavebních oprav](https://getcontractalerts.com/countries/czechia/tenders/building-maintenance)
+
+### Denmark
+
+- [Cateringudbud i Danmark: skeln mellem køkkendrift, madproduktion og levering](https://getcontractalerts.com/countries/denmark/tenders/catering)
+- [Grøn pleje i Danmark: vurder arealer, sæsoner og køretid før tilbuddet](https://getcontractalerts.com/countries/denmark/tenders/grounds-maintenance)
 
 ### France
 
@@ -48,10 +63,20 @@ Published 28 November 2026 by Get Contract Alerts, the operator of the linked ma
 - [Concursos de limpeza em Portugal: encontre os anúncios e avalie os edifícios](https://getcontractalerts.com/countries/portugal/tenders/cleaning)
 - [Concursos de formação em Portugal: compare cursos, participantes e entrega](https://getcontractalerts.com/countries/portugal/tenders/training)
 
+### Romania
+
+- [Servicii de pază în România: compară posturile, turele și responsabilitățile](https://getcontractalerts.com/countries/romania/tenders/security-services)
+- [Renovări în România: treci de la titlul anunțului la cantități și șantier](https://getcontractalerts.com/countries/romania/tenders/refurbishment)
+
 ### Spain
 
 - [Licitaciones de catering en España: compara centros, comidas y condiciones](https://getcontractalerts.com/countries/spain/tenders/catering)
 - [Licitaciones de instalaciones eléctricas en España: encuentra el lote adecuado](https://getcontractalerts.com/countries/spain/tenders/electrical-installation)
+
+### Sweden
+
+- [Upphandling av utbildning i Sverige: jämför ämne, deltagare och leveransform](https://getcontractalerts.com/countries/sweden/tenders/training)
+- [Avfallsupphandlingar i Sverige: skilj insamling, transport och behandling åt](https://getcontractalerts.com/countries/sweden/tenders/waste-services)
 
 ### United Kingdom
 
